@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Research
 permalink: /about/
 image: '/images/01-2.jpg'
 ---

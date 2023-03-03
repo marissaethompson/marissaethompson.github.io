@@ -36,3 +36,27 @@
     width: 100%;
   }
 }
+
+
+/* MT added */
+.sharebuttons {
+  margin: 0 auto 0 auto;
+}
+
+.sharebuttons ul {
+  margin: 20px 0 0 0;
+  text-align: center;
+}
+
+.sharebuttons ul li {
+  display: inline;
+}
+
+.sharebuttons ul li a {
+  text-decoration: none;
+}
+
+.sharebuttons ul li svg {
+  width: 25px;
+  height: 25px;
+}
