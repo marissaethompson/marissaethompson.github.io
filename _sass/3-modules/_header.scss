@@ -20,6 +20,9 @@
 
 /* Logo */
 .logo__link {
+  @media screen and (max-width: 465px) {
+    font-size: 22px;
+    }
   padding: 8px 0;
   font-family: $heading-font-family;
   font-size: 40px;
@@ -396,58 +399,3 @@
   }
 }
 
-/* Toggle Theme */
-.toggle-theme {
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 44px;
-  height: 44px;
-  border-radius: 50%;
-  user-select: none;
-  cursor: pointer;
-  background: var(--background-alt-color);
-  
-  &.theme-light {
-    transform: none;
-    cursor: auto;
-
-    .toggle-sun {
-      display: block;
-    }
-  }
-
-  &.theme-dark {
-    transform: none;
-    cursor: auto;
-
-    .toggle-moon {
-      display: block;
-    }
-  }
-}
-
-.toggle-sun,
-.toggle-moon {
-  position: absolute;
-  font-size: 18px;
-
-  &:hover {
-    color: var(--link-color);
-  }
-}
-
-.toggle-sun {
-  display: none;
-}
-
-.dark-mode {
-  .toggle-sun {
-    display: block;
-  }
-
-  .toggle-moon {
-    display: none;
-  }
-}

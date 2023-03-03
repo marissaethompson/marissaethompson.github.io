@@ -15,13 +15,13 @@ Examining the Black Gender Gap in Educational Attainment: The Role of Exclusiona
 
 # Peer-Reviewed Publications:
 
-## 2023: 
+## 2023 
 
 [Uneven Progress: Recent Trends in Academic Performance Among U.S. School Districts.](https://journals.sagepub.com/doi/10.3102/00028312221134769)<br> 
 <i>American Education Research Journal</i>.<br>
 Kaylee T. Matheny \*, <b>Marissa E. Thompson\*</b>, Carrie Townley Flores\*, & Sean F. Reardon 
 
-## 2021: 
+## 2021 
 
 [Grade Expectations: The role of first-year grades in predicting the pursuit of STEM majors for first- and continuing-generation students.](https://www.tandfonline.com/doi/full/10.1080/00221546.2021.1907169) <br>
 <i>The Journal of Higher Education.</i><br>
@@ -31,19 +31,19 @@ Kaylee T. Matheny \*, <b>Marissa E. Thompson\*</b>, Carrie Townley Flores\*, & S
 <i>AERA Open</i>.<br>
 Sorathan Chaturapruek, Tobias Dalberg, <b>Marissa E. Thompson</b>, Sonia Giebel, Monique H. Harrison, Ramesh Johari, Mitchell L. Stevens, & René Kizilcec
 
-## 2020: 
+## 2020 
 
 [The Confidence Gap Predicts the Gender Pay Gap Among STEM Graduates.](https://www.pnas.org/content/early/2020/11/10/2010269117) <br>
 <i>Proceedings of the National Academy of Sciences.</i><br>
 Adina D. Sterling, <b>Marissa E. Thompson</b>, Shiya Wang, Abisola Kusimo, Shannon Gilmartin, & Sheri Sheppard
 
-## 2019: 
+## 2019 
 
 [Entrepreneurial Intent of Engineering and Business Undergraduate Students.](https://onlinelibrary.wiley.com/doi/full/10.1002/jee.20283)<br>
 <i>Journal of Engineering Education</i>.<br>
 Shannon K. Gilmartin, <b>Marissa E. Thompson</b>, Emily Morton, Helen Chen, Anne Colby, & Sheri D. Sheppard
 
-## 2016: 
+## 2016 
 
 [Bioresorbable silicon electronics for transient spatiotemporal mapping of electrical activity from the cerebral cortex](https://www.nature.com/articles/nmat4624).<br>
 <i>Nature Materials</i>.<br>
