@@ -6,7 +6,7 @@
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    max-width:1300px; //MT added
+    max-width:1300px; // Max width of header 
     margin: 0px auto;
     padding: 60px $base-spacing-unit;
   
@@ -33,7 +33,7 @@
   transition: color .25s ease;
 }
 
-// MT ADDED HERE
+/* Make duplicate logo invisible and/or missing (for spacing) */
 .logo__link_2 {
   visibility: hidden;
   @media screen and (max-width: $desktop) {
@@ -47,6 +47,7 @@
   transition: color .25s ease;
 }
 
+/* Make duplicate logo invisible and/or missing (for spacing) */
 .nav-button_2 {
   visibility: hidden;
   @media screen and (max-width: $desktop) {
