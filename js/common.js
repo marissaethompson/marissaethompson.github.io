@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
   'use strict';
 
+
   var html = document.querySelector('html'),
     menuOpenIcon = document.querySelector(".icon__menu"),
     menuCloseIcon = document.querySelector(".nav__icon-close"),
