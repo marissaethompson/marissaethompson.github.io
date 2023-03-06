@@ -11,5 +11,7 @@ image:
  
  <br>
   <div class="section__navigation">
-    <a href="\cv\Thompson_CV.pdf" class="button button--primary section-button">Download</a>
+    <a href="\cv\Thompson_CV.pdf" class="button button--primary section-button">Download CV</a>
   </div>
+  
+
