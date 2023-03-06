@@ -42,7 +42,7 @@ Sorathan Chaturapruek, Tobias Dalberg, <b>Marissa E. Thompson</b>, Sonia Giebel,
 ## 2020 
 
 [The Confidence Gap Predicts the Gender Pay Gap Among STEM Graduates.](https://www.pnas.org/content/early/2020/11/10/2010269117) <br>
-<i>Proceedings of the National Academy of Sciences.</i>&nbsp;[<span style="font-size: 15pt; color:#8fbc8f">●</span>](/research/Sterling_PNAS_2021.pdf)<br>
+<i>Proceedings of the National Academy of Sciences.</i>&nbsp;[<span style="font-size: 15pt; color:#8fbc8f">●</span>](/research/Sterling_PNAS_2020.pdf)<br>
 Adina D. Sterling, <b>Marissa E. Thompson</b>, Shiya Wang, Abisola Kusimo, Shannon Gilmartin, & Sheri Sheppard
 
 ## 2019 
