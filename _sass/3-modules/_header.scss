@@ -6,6 +6,8 @@
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
+    max-width:1300px; //MT added
+    margin: 0px auto;
     padding: 60px $base-spacing-unit;
   
     @media only screen and (max-width: $desktop) {
@@ -25,10 +27,32 @@
     }
   padding: 8px 0;
   font-family: $heading-font-family;
-  font-size: 40px;
+  font-size: 30px;
   line-height: 1;
   font-weight: 800;
   transition: color .25s ease;
+}
+
+// MT ADDED HERE
+.logo__link_2 {
+  visibility: hidden;
+  @media screen and (max-width: $desktop) {
+    display:none;
+    }
+  padding: 8px 0;
+  font-family: $heading-font-family;
+  font-size: 30px;
+  line-height: 1;
+  font-weight: 800;
+  transition: color .25s ease;
+}
+
+.nav-button_2 {
+  visibility: hidden;
+  @media screen and (max-width: $desktop) {
+    display:none;
+    }
+
 }
 
 .logo__image {
@@ -357,7 +381,6 @@
     }
   }
 }
-
 
 
 .nav-button {
