@@ -12,18 +12,25 @@ image:
  </center>
 
  
-<h1 align="center">Working Papers & Under Review:</h1>
+<!--<h1 align="center">Working Papers & Under Review:</h1>-->
+<!---->
+<!---->
+<!--Examining the Black Gender Gap in Educational Attainment: The Role of Exclusionary School Discipline & Criminal Justice Contact. (3rd Revise & Resubmit)<br>-->
+<!--<b>Marissa E. Thompson</b>-->
+<!---->
+<!--<h1 align="center">Peer-Reviewed Publications:</h1>-->
+<!---->
 
- [Not in My School District: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation.](https://osf.io/preprints/socarxiv/2wfjn) (Revise & Resubmit)<br>
- <i>SocArXiv</i>.<br>
+## Forthcoming
+
+ [Not in My School District: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation.](https://osf.io/preprints/socarxiv/2wfjn) Conditionally accepted at <i>Sociology of Education.</i><br>
 <b> Marissa E. Thompson\*</b> and Sam Trejo\* 
 
-Examining the Black Gender Gap in Educational Attainment: The Role of Exclusionary School Discipline & Criminal Justice Contact. (2nd Revise & Resubmit)<br>
-<b>Marissa E. Thompson</b>
-
-<h1 align="center">Peer-Reviewed Publications:</h1>
-
 ## 2023 
+
+[From Pipelines to Pathways in the Study of Academic Progress.](https://www.science.org/doi/abs/10.1126/science.adg5406?af=R&utm_source=sfmc&utm_medium=email&utm_campaign=SCIeToc&utm_content=alert&et_rid=623440394&et_cid=4710205)<br> 
+<i>Science Policy Forum</i>.&nbsp;[<span style="font-size: 15pt; color:#8fbc8f">●</span>](/research/Kizilcec_Science_2023.pdf)<br>
+René F. Kizilcec, Rachel B. Baker, Elizabeth Bruch, Kalena E. Cortes, Laura T. Hamilton, David Nathan Lang, Zachary A. Pardos, <b>Marissa E. Thompson </b>, & Mitchell L. Stevens
 
 [Uneven Progress: Recent Trends in Academic Performance Among U.S. School Districts.](https://journals.sagepub.com/doi/10.3102/00028312221134769)<br> 
 <i>American Education Research Journal</i>.&nbsp;[<span style="font-size: 15pt; color:#8fbc8f">●</span>](/research/Matheny_AERJ_2023.pdf)<br>
