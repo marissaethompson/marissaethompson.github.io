@@ -29,7 +29,7 @@ image:
 ## 2023 
 
 [From Pipelines to Pathways in the Study of Academic Progress.](https://www.science.org/doi/abs/10.1126/science.adg5406?af=R&utm_source=sfmc&utm_medium=email&utm_campaign=SCIeToc&utm_content=alert&et_rid=623440394&et_cid=4710205)<br> 
-<i>Science Policy Forum</i>.&nbsp;[<span style="font-size: 15pt; color:#8fbc8f">●</span>](/research/Kizilcec_Science_2023.pdf)<br>
+<i>Science</i>.&nbsp;[<span style="font-size: 15pt; color:#8fbc8f">●</span>](/research/Kizilcec_Science_2023.pdf)<br>
 René F. Kizilcec, Rachel B. Baker, Elizabeth Bruch, Kalena E. Cortes, Laura T. Hamilton, David Nathan Lang, Zachary A. Pardos, <b>Marissa E. Thompson </b>, & Mitchell L. Stevens
 
 [Uneven Progress: Recent Trends in Academic Performance Among U.S. School Districts.](https://journals.sagepub.com/doi/10.3102/00028312221134769)<br> 
