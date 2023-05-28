@@ -24,7 +24,7 @@ image:
 
 ## Forthcoming
 
- [Not in My School District: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation.](https://osf.io/preprints/socarxiv/2wfjn) Conditionally accepted at <i>Sociology of Education.</i><br>
+ [<i>My</i> School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation.](https://osf.io/preprints/socarxiv/2wfjn) Conditionally accepted at <i>Sociology of Education.</i><br>
 <b> Marissa E. Thompson\*</b> and Sam Trejo\* 
 
 ## 2023 
