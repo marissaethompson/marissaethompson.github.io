@@ -5,8 +5,16 @@ permalink: /research/
 image:  
 ---
 
-<center>
-<font size="2">
+My research examines the processes that produce racial and socioeconomic inequality: the interplay between academic inequality and segregation in educational contexts, the ways that individual choices shape aggregate patterns of segregation, and how boundaries between social groups are maintained and negotiated. I hope that my work will not only help us understand our most pressing social problems but also identify policies and practices to reduce inequality.
+ 
+The first strand of my research focuses on inequality and segregation in educational contexts. Inequality in both opportunity and outcomes are a stubbornly persistent feature of the American educational system. My work seeks to shed light on the extent of this inequality, how it develops, and the mechanisms that explain its endurance. For example, some of my [recently published work](https://journals.sagepub.com/doi/10.3102/00028312221134769) examines how educational inequality has shifted in the post-recession, pre-pandemic period, mapping both how achievement disparities have changed over time and the extent to which they are predicted by changing segregation levels. In addition, ongoing work on these topics examines the sources of the Black gender gap in educational attainment, the causal effects of school district secessions on achievement gaps, and the causal effect of a first-dollar scholarship policy on college access, among others.
+ 
+A closely related but distinct line of research examines how preferences and decision-making patterns shape aggregate patterns of segregation. Though individuals are tasked with making educational decisions – such as to send their child to a certain school or to declare a specific major – in individual contexts, these decisions have cumulative consequences for the demographic makeup of a community’s schools, a university’s major, or an entire occupation. Research in this vein focuses on two sites for understanding decision-making and consequences for stratification. The first examines how parents of school-aged children choose a school for their child. Here, I leverage a series of novel survey experiments to explore how status competition and boundary maintenance shape parental engagement with ranked educational data, such as the information one might find on <i>GreatSchools.com</i>. I also focus on undergraduate course and major selection as a second site for understanding the granular process of consideration and choice.
+ 
+Finally, my research agenda interrogates the emergence of categories themselves and how people draw boundaries between “us” and “them”. For example, ongoing work examines how genetic ancestry tests (such as those available commercially through <i>23andMe</i> and <i>Ancestry.com</i>) affect the boundary-making processes of Black Americans as they grapple with their perceptions of who is – and isn’t – Black. This work advances theoretical understandings of the racial classification logics that shape the racial structure of the U.S. and addresses key social and policy questions, including debates over who should be eligible to benefit from policies such as affirmative action and reparations.
+
+# <center>Publications</center>
+ <center> <font size="2">
  * denotes equal authorship &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span style="font-size: 15pt; color:#8fbc8f;display: inline-block">●&nbsp;</span>PDF 
  </font>

@@ -33,27 +33,7 @@
   transition: color .25s ease;
 }
 
-/* Make duplicate logo invisible and/or missing (for spacing) */
-.logo__link_2 {
-  visibility: hidden;
-  @media screen and (max-width: $desktop) {
-    display:none;
-    }
-  padding: 8px 0;
-  font-family: $heading-font-family;
-  font-size: 30px;
-  line-height: 1;
-  font-weight: 800;
-  transition: color .25s ease;
-}
 
-/* Make duplicate logo invisible and/or missing (for spacing) */
-.nav-button_2 {
-  visibility: hidden;
-  @media screen and (max-width: $desktop) {
-    display:none;
-    }
-}
 
 .logo__image {
   max-height: 50px;
@@ -85,15 +65,20 @@
     .nav__list {
       flex-direction: column;
       width: 100%;
+      
+      
 
       .nav__item {
         display: block;
         width: 100%;
         margin: 0;
+        
+        
 
         &.dropdown {
           .dropdown-toggle {
             display: none;
+            
           }
         }
 
@@ -155,6 +140,7 @@
         }
 
         .nav__link {
+        
           display: block;
           padding: 20px 0;
           margin-bottom: 0;
@@ -204,7 +190,6 @@
 
   @media only screen and (max-width: $desktop) {
     display: block;
-
     align-items: center;
     width: 100%;
     max-width: 240px;
@@ -228,6 +213,7 @@
       font-size: 36px;
       font-weight: 800;
       color: var(--heading-font-color);
+      
     }
   }
 
@@ -240,9 +226,10 @@
   display: flex;
   align-items: center;
 
+/* original margin was 20, switch to 67 */
   .nav__item {
     display: inline-block;
-    margin-right: 40px;
+    margin-right: 67px;
     margin-bottom: 0;
 
     &:last-child {
@@ -334,6 +321,11 @@
     border-radius: 8px;
     box-shadow: 0 15px 40px 5px rgba(20, 20, 20, 0.07);
     background-color: var(--background-color);
+    
+    
+    
+    
+    
 
     .nav__link {
       position: relative;
@@ -343,6 +335,7 @@
       font-size: 20px;
       line-height: 1;
       will-change: transform;
+      
 
       &:hover {
         &::after {
@@ -384,7 +377,7 @@
 
 
 .nav-button {
-  display: flex;
+  display: none;
   align-items: center;
   font-size: 21px;
   color: var(--link-color);
