@@ -32,12 +32,12 @@ Finally, my research agenda interrogates the emergence of categories themselves 
 
 ## Forthcoming
 
- Examining the Black Gender Gap in Educational Attainment: The Role of Exclusionary School Discipline & Criminal Justice Contact. 
+ Examining the Black Gender Gap in Educational Attainment: The Role of Exclusionary School Discipline & Criminal Justice Contact. <br>
  Forthcoming at <i>Social Forces.</i><br>
 <b> Marissa E. Thompson</b> 
 
 
- [<i>My</i> School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation.](https://osf.io/preprints/socarxiv/2wfjn) 
+ [<i>My</i> School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation.](https://osf.io/preprints/socarxiv/2wfjn) <br>
  Forthcoming at <i>Sociology of Education.</i><br>
 <b> Marissa E. Thompson\*</b> and Sam Trejo\* 
 
