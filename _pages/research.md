@@ -19,16 +19,7 @@ Finally, my research agenda interrogates the emergence of categories themselves 
 <span style="font-size: 15pt; color:#8fbc8f;display: inline-block">●&nbsp;</span>PDF 
  </font>
  </center>
- 
- 
-<!--<h1 align="center">Working Papers & Under Review:</h1>-->
-<!---->
-<!---->
-<!--Examining the Black Gender Gap in Educational Attainment: The Role of Exclusionary School Discipline & Criminal Justice Contact. (3rd Revise & Resubmit)<br>-->
-<!--<b>Marissa E. Thompson</b>-->
-<!---->
-<!--<h1 align="center">Peer-Reviewed Publications:</h1>-->
-<!---->
+
 
 ## Forthcoming
 
@@ -36,10 +27,13 @@ Finally, my research agenda interrogates the emergence of categories themselves 
  Forthcoming at <i>Social Forces.</i><br>
 <b> Marissa E. Thompson</b> 
 
-
  [<i>My</i> School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation.](https://osf.io/preprints/socarxiv/2wfjn) <br>
  Forthcoming at <i>Sociology of Education.</i><br>
 <b> Marissa E. Thompson\*</b> and Sam Trejo\* 
+
+The Role of Early Schooling in Shaping Inequality in Academic, Executive Functioning, and Social-Emotional Skills <br>
+ Forthcoming at <i>Socius.</i><br>
+<b> Marissa E. Thompson</b>, Christina Weiland, Meghan P. McCormick, Catherine Snow, and Jason Sachs 
 
 ## 2023 
 
