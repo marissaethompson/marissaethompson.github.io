@@ -31,7 +31,7 @@ Finally, my research agenda interrogates the emergence of categories themselves 
  Forthcoming at <i>Sociology of Education.</i><br>
 <b> Marissa E. Thompson\*</b> and Sam Trejo\* 
 
-The Role of Early Schooling in Shaping Inequality in Academic, Executive Functioning, and Social-Emotional Skills <br>
+The Role of Early Schooling in Shaping Inequality in Academic, Executive Functioning, and Social-Emotional Skills. <br>
  Forthcoming at <i>Socius.</i><br>
 <b> Marissa E. Thompson</b>, Christina Weiland, Meghan P. McCormick, Catherine Snow, and Jason Sachs 
 
