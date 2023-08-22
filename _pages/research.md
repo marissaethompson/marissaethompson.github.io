@@ -19,12 +19,11 @@ Finally, my research agenda interrogates the emergence of categories themselves 
 <span style="font-size: 15pt; color:#8fbc8f;display: inline-block">●&nbsp;</span>PDF 
  </font>
  </center>
- 
   <br>
 ## Working Papers 
 
  [“They have Black in their blood”: Exploring how genetic ancestry tests affect racial appraisals and classifications.](https://osf.io/preprints/socarxiv/8tnrk/) <br>
- SocArXiv.<br>
+ <i>SocArXiv.</i><br>
 <b> Marissa E. Thompson</b>, Sam Trejo, AJ Alvero, and Daphne O. Martschenko 
 
 ## Forthcoming
