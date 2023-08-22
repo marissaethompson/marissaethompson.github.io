@@ -5,7 +5,7 @@ permalink: /research/
 image:  
 ---
 
-My research examines the processes that produce racial and socioeconomic inequality: the interplay between academic inequality and segregation in educational contexts, the ways that individual choices shape aggregate patterns of segregation, and how boundaries between social groups are maintained and negotiated. I hope that my work will not only help us understand our most pressing social problems but also identify policies and practices to reduce inequality.
+My research examines the processes that produce racial and socioeconomic inequality: the interplay between academic inequality and segregation in educational contexts, the ways that individual choices shape aggregate patterns of segregation, and how boundaries between social groups are maintained and negotiated. I hope that my work will not only help us understand our most pressing social problems but also identify policies and practices to reduce inequality. My research has been published or is forthcoming in journals such as <i>Social Forces</i>, <i>Sociology of Education</i>, <i>PNAS</i>, the <i>American Education Research Journal</i>, and <i>AERA Open</i>, among others. 
  
 The first strand of my research focuses on inequality and segregation in educational contexts. Inequality in both opportunity and outcomes are a stubbornly persistent feature of the American educational system. My work seeks to shed light on the extent of this inequality, how it develops, and the mechanisms that explain its endurance. For example, some of my [recently published work](https://journals.sagepub.com/doi/10.3102/00028312221134769) examines how educational inequality has shifted in the post-recession, pre-pandemic period, mapping both how achievement disparities have changed over time and the extent to which they are predicted by changing segregation levels. In addition, ongoing work on these topics examines the sources of the Black gender gap in educational attainment, the causal effects of school district secessions on achievement gaps, and the causal effect of a first-dollar scholarship policy on college access, among others.
  
@@ -13,13 +13,18 @@ A closely related but distinct line of research examines how preferences and dec
  
 Finally, my research agenda interrogates the emergence of categories themselves and how people draw boundaries between “us” and “them”. For example, ongoing work examines how genetic ancestry tests (such as those available commercially through <i>23andMe</i> and <i>Ancestry.com</i>) affect the boundary-making processes of Black Americans as they grapple with their perceptions of who is – and isn’t – Black. This work advances theoretical understandings of the racial classification logics that shape the racial structure of the U.S. and addresses key social and policy questions, including debates over who should be eligible to benefit from policies such as affirmative action and reparations.
 
-# <center>Publications</center>
+# <center>Publications & Working Papers</center>
  <center> <font size="2">
  * denotes equal authorship &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span style="font-size: 15pt; color:#8fbc8f;display: inline-block">●&nbsp;</span>PDF 
  </font>
  </center>
+ 
+## Working Papers 
 
+ [“They have Black in their blood”: Exploring how genetic ancestry tests affect racial appraisals and classifications.](https://osf.io/preprints/socarxiv/8tnrk/) <br>
+ SocArXiv.<br>
+<b> Marissa E. Thompson</b>, Sam Trejo, AJ Alvero, and Daphne O. Martschenko 
 
 ## Forthcoming
 
