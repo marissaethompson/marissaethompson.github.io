@@ -26,17 +26,17 @@ Finally, my research agenda interrogates the emergence of categories themselves 
 ## Working Papers 
 
  [“They have Black in their blood”: Exploring how genetic ancestry tests affect racial appraisals and classifications.](https://osf.io/preprints/socarxiv/8tnrk/){:target="_blank"} <br>
- <i>SocArXiv.</i>&nbsp;[<span style="font-size: 15pt; color:#87ceeb">●</span>](https://osf.io/dj9pt/){:target="_blank"}<br>
+ <i>SocArXiv.</i>&nbsp;[<span style="font-size: 15pt; color:#87ceeb">●</span>](https://osf.io/dj9pt/registrations){:target="_blank"}<br>
 <b> Marissa E. Thompson</b>, Sam Trejo, AJ Alvero, and Daphne O. Martschenko 
 
 ## Forthcoming
 
- Examining the Black Gender Gap in Educational Attainment: The Role of Exclusionary School Discipline & Criminal Justice Contact. <br>
+  [Examining the Black Gender Gap in Educational Attainment: The Role of Exclusionary School Discipline & Criminal Justice Contact.](/research/Thompson_SF_DRAFT_2023.pdf){:target="_blank"} <br>
  Forthcoming at <i>Social Forces.</i><br>
 <b> Marissa E. Thompson</b> 
 
  [<i>My</i> School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation.](https://osf.io/preprints/socarxiv/2wfjn){:target="_blank"} <br>
- Forthcoming at <i>Sociology of Education.</i>&nbsp;[<span style="font-size: 15pt; color:#87ceeb">●</span>](https://osf.io/dj9pt/registrations){:target="_blank"} [<span style="font-size: 15pt; color:#b5a2c8">●</span>](https://github.com/sam-trejo/2023_08_socedu_seg_exp){:target="_blank"}<br>
+ Forthcoming at <i>Sociology of Education.</i>&nbsp;[<span style="font-size: 15pt; color:#87ceeb">●</span>](https://osf.io/ucvt6){:target="_blank"} [<span style="font-size: 15pt; color:#b5a2c8">●</span>](https://github.com/sam-trejo/2023_08_socedu_seg_exp){:target="_blank"}<br>
 <b> Marissa E. Thompson\*</b> and Sam Trejo\* 
 
 The Role of Early Schooling in Shaping Inequality in Academic, Executive Functioning, and Social-Emotional Skills. <br>
