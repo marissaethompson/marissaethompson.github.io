@@ -34,7 +34,7 @@ Finally, my research agenda interrogates the emergence of categories themselves 
 
 ## 2023 
 
- [<i>My</i> School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation.](https://journals.sagepub.com/doi/epub/10.1177/00380407231213342){:target="_blank"} <br>
+ [<i>My</i> School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation.](https://journals.sagepub.com/doi/full/10.1177/00380407231213342){:target="_blank"} <br>
 <i>Sociology of Education.</i>&nbsp;[<span style="font-size: 15pt; color:#8fbc8f">●</span>](/research/Thompson_SOE_2023.pdf){:target="_blank"} [<span style="font-size: 15pt; color:#87ceeb">●</span>](https://osf.io/ucvt6){:target="_blank"} [<span style="font-size: 15pt; color:#b5a2c8">●</span>](https://github.com/sam-trejo/2023_08_socedu_seg_exp){:target="_blank"}<br>
 <b> Marissa E. Thompson\*</b> and Sam Trejo\* 
 
