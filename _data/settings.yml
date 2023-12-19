@@ -40,16 +40,13 @@ social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/m_thompson"}
 - {icon: "ion-logo-google", link: "https://scholar.google.com/citations?user=6MTeSgwAAAAJ&hl=en"}
 - {icon: "ion-school", link: "https://sociology.columbia.edu/content/marissa-e-thompson"}
-#- {icon: "ion-logo-github", link: "https://github.com"}
 
-# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-# Other icons can be found at https://ionicons.com/v4/
 
 
 #-------------------------------
 # Hero Settings
 hero:
-#  hero__title: <a href="/images/Thompson_zoomed.jpg" > </a>
+#  hero__title: <a href="/images/Thompson_zoomed.JPG" > </a>
   hero__description: Welcome! My name is Marissa Thompson and I am an Assistant Professor of Sociology at Columbia University. My research focuses on the causes and consequences of racial and socioeconomic inequality, with an emphasis on understanding the role of education in shaping disparate outcomes over the life course. <p><p> My current research explores, for example, parental preferences regarding school segregation, the causal effects of first-dollar scholarship policies on college access, and the role of genetic ancestry tests in racial boundary-making processes. I employ a range of quantitative and computational methods using large national datasets, administrative data, survey data, and novel survey experiments. <p><p> In addition to research on inequality and social policy, I’m excited about running, <a href="/images/knit.jpg" target="_blank" onmouseover="this.style.textDecorationLine = 'underline'; this.style.textDecorationColor = '#cccccc';"
         onmouseout="this.style.textDecorationLine = 'none';">knitting</a>, and podcasts.
 
