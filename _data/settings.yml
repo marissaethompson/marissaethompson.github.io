@@ -6,6 +6,7 @@ description: #Hilton is a super simple portfolio theme for Jekyll.
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
+
 #-------------------------------
 # Navigation Settings
 menu__settings:
