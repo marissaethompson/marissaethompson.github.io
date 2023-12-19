@@ -54,6 +54,7 @@ hero:
         onmouseout="this.style.textDecorationLine = 'none';">knitting</a>, and podcasts.
   hero__image: '/images/Thompson_zoomed.JPG'
 
+
 #-------------------------------
 
     
