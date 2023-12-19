@@ -52,6 +52,7 @@ hero:
 #  hero__title: I'm Monica. I will create design that can give you value
   hero__description: Welcome! My name is Marissa Thompson and I am an Assistant Professor of Sociology at Columbia University. My research focuses on the causes and consequences of racial and socioeconomic inequality, with an emphasis on understanding the role of education in shaping disparate outcomes over the life course. <p><p> My current research explores, for example, parental preferences regarding school segregation, the causal effects of first-dollar scholarship policies on college access, and the role of genetic ancestry tests in racial boundary-making processes. I employ a range of quantitative and computational methods using large national datasets, administrative data, survey data, and novel survey experiments. <p><p> In addition to research on inequality and social policy, I’m excited about running, <a href="/images/knit.jpg" target="_blank" onmouseover="this.style.textDecorationLine = 'underline'; this.style.textDecorationColor = '#cccccc';"
         onmouseout="this.style.textDecorationLine = 'none';">knitting</a>, and podcasts.
+    <img src="/images/Thompson_zoomed.JPG" alt="Image" style="display: none;">
   hero__image: '/images/Thompson_zoomed.JPG'
 
 
