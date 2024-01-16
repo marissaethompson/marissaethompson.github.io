@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /research/
+
+
+User-agent: *
+Disallow: /CV/
+
+User-agent: *
+Disallow: /images/knit.jpeg

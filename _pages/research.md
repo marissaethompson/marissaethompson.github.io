@@ -32,6 +32,11 @@ Finally, my research agenda interrogates the emergence of categories themselves 
  <i>SocArXiv.</i>&nbsp;[<span style="font-size: 15pt; color:#87ceeb">●</span>](https://osf.io/dj9pt/registrations){:target="_blank"}<br>
 <b> Marissa E. Thompson</b>, Sam Trejo, AJ Alvero, and Daphne O. Martschenko 
 
+## 2024
+[Examining the Black Gender Gap in Educational Attainment: The Role of Exclusionary School Discipline & Criminal Justice Contact.](https://academic.oup.com/sf/advance-article/doi/10.1093/sf/soad110/7252817?utm_source=authortollfreelink&utm_campaign=sf&utm_medium=email&guestAccessKey=d1e2eb36-ec6f-4a90-9009-0f35b2201128)<br>
+ <i>Social Forces.</i>&nbsp;[<span style="font-size: 15pt; color:#8fbc8f">●</span>](/research/Thompson_SF_2024.pdf){:target="_blank"}<br>
+<b> Marissa E. Thompson</b> 
+
 ## 2023 
 
  [<i>My</i> School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation.](https://journals.sagepub.com/doi/full/10.1177/00380407231213342){:target="_blank"} <br>
@@ -42,9 +47,6 @@ Finally, my research agenda interrogates the emergence of categories themselves 
  <i>Socius.</i>&nbsp;[<span style="font-size: 15pt; color:#8fbc8f">●</span>](/research/Thompson_Socius_2023.pdf){:target="_blank"}<br>
 <b> Marissa E. Thompson</b>, Christina Weiland, Meghan P. McCormick, Catherine Snow, and Jason Sachs 
 
-[Examining the Black Gender Gap in Educational Attainment: The Role of Exclusionary School Discipline & Criminal Justice Contact.](https://academic.oup.com/sf/advance-article/doi/10.1093/sf/soad110/7252817?utm_source=authortollfreelink&utm_campaign=sf&utm_medium=email&guestAccessKey=d1e2eb36-ec6f-4a90-9009-0f35b2201128)<br>
- <i>Social Forces.</i>&nbsp;[<span style="font-size: 15pt; color:#8fbc8f">●</span>](/research/Thompson_SF_2023.pdf){:target="_blank"}<br>
-<b> Marissa E. Thompson</b> 
 
 [From Pipelines to Pathways in the Study of Academic Progress.](https://www.science.org/doi/abs/10.1126/science.adg5406?af=R&utm_source=sfmc&utm_medium=email&utm_campaign=SCIeToc&utm_content=alert&et_rid=623440394&et_cid=4710205){:target="_blank"}<br> 
 <i>Science</i>.&nbsp;[<span style="font-size: 15pt; color:#8fbc8f">●</span>](/research/Kizilcec_Science_2023.pdf){:target="_blank"}<br>
