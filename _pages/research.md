@@ -32,20 +32,26 @@ Finally, my research agenda interrogates the emergence of categories themselves 
  <i>SocArXiv.</i>&nbsp;[<span style="font-size: 15pt; color:#87ceeb">●</span>](https://osf.io/dj9pt/registrations){:target="_blank"}<br>
 <b> Marissa E. Thompson</b>, Sam Trejo, AJ Alvero, and Daphne O. Martschenko 
 
+## Forthcoming
+The Effect of Academic Outcomes, Equity, and Student Demographics on Parental Preferences for Schools: Evidence from a Survey Experiment.<br>
+ <i>Social Forces.</i><br>
+<b>Marissa E. Thompson</b> 
+
 ## 2024
+
 [Examining the Black Gender Gap in Educational Attainment: The Role of Exclusionary School Discipline & Criminal Justice Contact.](https://academic.oup.com/sf/advance-article/doi/10.1093/sf/soad110/7252817?utm_source=authortollfreelink&utm_campaign=sf&utm_medium=email&guestAccessKey=d1e2eb36-ec6f-4a90-9009-0f35b2201128)<br>
  <i>Social Forces.</i>&nbsp;[<span style="font-size: 15pt; color:#8fbc8f">●</span>](/research/Thompson_SF_2024.pdf){:target="_blank"}<br>
-<b> Marissa E. Thompson</b> 
+<b>Marissa E. Thompson</b> 
 
 ## 2023 
 
  [<i>My</i> School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation.](https://journals.sagepub.com/doi/full/10.1177/00380407231213342){:target="_blank"} <br>
 <i>Sociology of Education.</i>&nbsp;[<span style="font-size: 15pt; color:#8fbc8f">●</span>](/research/Thompson_SOE_2023.pdf){:target="_blank"} [<span style="font-size: 15pt; color:#87ceeb">●</span>](https://osf.io/ucvt6){:target="_blank"} [<span style="font-size: 15pt; color:#b5a2c8">●</span>](https://github.com/sam-trejo/2023_08_socedu_seg_exp){:target="_blank"}<br>
-<b> Marissa E. Thompson\*</b> and Sam Trejo\* 
+<b>Marissa E. Thompson\*</b> and Sam Trejo\* 
 
 [The Role of Early Schooling in Shaping Inequality in Academic, Executive Functioning, and Social-Emotional Skills.](https://journals.sagepub.com/doi/full/10.1177/23780231231199375) <br>
  <i>Socius.</i>&nbsp;[<span style="font-size: 15pt; color:#8fbc8f">●</span>](/research/Thompson_Socius_2023.pdf){:target="_blank"}<br>
-<b> Marissa E. Thompson</b>, Christina Weiland, Meghan P. McCormick, Catherine Snow, and Jason Sachs 
+<b>Marissa E. Thompson</b>, Christina Weiland, Meghan P. McCormick, Catherine Snow, and Jason Sachs 
 
 
 [From Pipelines to Pathways in the Study of Academic Progress.](https://www.science.org/doi/abs/10.1126/science.adg5406?af=R&utm_source=sfmc&utm_medium=email&utm_campaign=SCIeToc&utm_content=alert&et_rid=623440394&et_cid=4710205){:target="_blank"}<br> 
