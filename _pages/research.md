@@ -32,7 +32,7 @@ Further, my research agenda also interrogates the emergence of racial/ethnic cat
 
 ## Forthcoming
 The Effect of Academic Outcomes, Equity, and Student Demographics on Parental Preferences for Schools: Evidence from a Survey Experiment.<br>
- <i>Social Forces.</i><br>&nbsp;[<span style="font-size: 15pt; color:#87ceeb">●</span>](https://osf.io/3qtcp){:target="_blank"} [<span style="font-size: 15pt; color:#b5a2c8">●</span>](https://github.com/marissaethompson/Thompson_SF_2024){:target="_blank"}<br>
+ <i>Social Forces.</i><br>&nbsp;[<span style="font-size: 15pt; color:#87ceeb">●</span>](https://osf.io/3qtcp){:target="_blank"} [<span style="font-size: 15pt; color:#b5a2c8">●</span>](https://github.com/marissaethompson/2024_SF_Thompson){:target="_blank"}<br>
 <b>Marissa E. Thompson</b> 
 
 ## 2024
