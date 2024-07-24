@@ -51,7 +51,6 @@ Further, my research agenda also interrogates the emergence of racial/ethnic cat
  <i>Socius.</i>&nbsp;[<span style="font-size: 15pt; color:#8fbc8f">●</span>](/research/Thompson_Socius_2023.pdf){:target="_blank"}<br>
 <b>Marissa E. Thompson</b>, Christina Weiland, Meghan P. McCormick, Catherine Snow, and Jason Sachs 
 
-
 [From Pipelines to Pathways in the Study of Academic Progress.](https://www.science.org/doi/abs/10.1126/science.adg5406?af=R&utm_source=sfmc&utm_medium=email&utm_campaign=SCIeToc&utm_content=alert&et_rid=623440394&et_cid=4710205){:target="_blank"}<br> 
 <i>Science</i>.&nbsp;[<span style="font-size: 15pt; color:#8fbc8f">●</span>](/research/Kizilcec_Science_2023.pdf){:target="_blank"}<br>
 René F. Kizilcec, Rachel B. Baker, Elizabeth Bruch, Kalena E. Cortes, Laura T. Hamilton, David Nathan Lang, Zachary A. Pardos, <b>Marissa E. Thompson </b>, and Mitchell L. Stevens
