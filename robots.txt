@@ -1,9 +1,16 @@
 User-agent: *
 Disallow: /research/
-
-
-User-agent: *
-Disallow: /CV/
-
-User-agent: *
 Disallow: /images/knit.jpeg
+Disallow: /CV
+
+Disallow: /research/Thompson_SF_2024b.pdf
+Disallow: /research/Thompson_SF_2024.pdf
+Disallow: /research/Chaturapruek_AERAOpen_2021.pdf
+Disallow: /research/Gilmartin_JEE_2019.pdf
+Disallow: /research/Kizilcec_Science_2023.pdf
+Disallow: /research/Matheny_AERJ_2023.pdf
+Disallow: /research/Sterling_PNAS_2020.pdf
+Disallow: /research/Thompson_JHE_2021.pdf
+Disallow: /research/Thompson_Socius_2023.pdf
+Disallow: /research/Thompson_SOE_2024.pdf
+Disallow: /research/Yu_NatureMaterials_2016.pdf

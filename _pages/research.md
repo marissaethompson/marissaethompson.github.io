@@ -4,6 +4,7 @@ title: Research
 permalink: /research/
 image:  
 ---
+<meta name="robots" content="noindex">
 
 My research examines the processes that produce racial and socioeconomic inequality: the interplay between academic inequality and segregation in educational contexts, the ways that individual choices shape aggregate patterns of segregation, and how boundaries between social groups are maintained and negotiated. My work not only seeks to understand our most pressing social problems but also to identify policies and practices to reduce inequality. My research has been published in journals such as <i>Social Forces</i>, <i>Sociology of Education</i>, <i>Proceedings of the National Academy of Sciences</i>, and the <i>American Education Research Journal</i>, among others. It has been supported by generous funding from the Russell Sage Foundation/the Gates Foundation, the National Academy of Education/the Spencer Foundation, and the Institute of Education Sciences. 
  
@@ -24,7 +25,7 @@ Further, my research agenda also interrogates the emergence of racial/ethnic cat
  </font>
  </center>
   <br>
-  
+
 
 ## Working Papers 
 
