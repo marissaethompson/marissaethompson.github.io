@@ -3,6 +3,12 @@ Disallow: /research/
 Disallow: /images/knit.jpeg
 Disallow: /CV
 
+Disallow: *.pdf
+Disallow: *.jpeg
+Disallow: /*.pdf
+Disallow: /*.jpeg
+
+
 Disallow: /research/Thompson_SF_2024b.pdf
 Disallow: /research/Thompson_SF_2024.pdf
 Disallow: /research/Chaturapruek_AERAOpen_2021.pdf
