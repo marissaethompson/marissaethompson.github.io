@@ -33,10 +33,11 @@ Further, my research agenda also interrogates the emergence of racial/ethnic cat
  <i>SocArXiv</i>&nbsp;[<span style="font-size: 15pt; color:#87ceeb">●</span>](https://osf.io/dj9pt/registrations){:target="_blank"}<br>
 <b> Marissa E. Thompson</b>, Sam Trejo, AJ Alvero, and Daphne O. Martschenko 
 
-Gender Segregation and Decision-Making in Undergraduate Course-Taking. <br> 
-Conditionally Accepted, <i>Sociological Science</i><br>
-<b>Marissa E. Thompson</b>, Tobias Dalberg, and Elizabeth E. Bruch
+## Forthcoming 
 
+Gender Segregation and Decision-Making in Undergraduate Course-Taking. <br> 
+Forthcoming at <i>Sociological Science</i><br>
+<b>Marissa E. Thompson</b>, Tobias Dalberg, and Elizabeth E. Bruch
 
 ## 2024
 
