@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: /research/
 Disallow: /images/knit.jpeg
+Disallow: /images/pickle.jpeg
 Disallow: /CV
 
 Disallow: *.pdf
