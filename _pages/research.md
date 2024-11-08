@@ -6,7 +6,7 @@ image:
 ---
 <meta name="robots" content="noindex">
 
-My research examines the processes that produce racial and socioeconomic inequality: the interplay between academic inequality and segregation in educational contexts, the ways that individual choices shape aggregate patterns of segregation, and how boundaries between social groups are maintained and negotiated. My work not only seeks to understand our most pressing social problems but also to identify policies and practices to reduce inequality. My research has been published or is forthcoming in journals such as <i>Social Forces</i>, <i>Sociological Science</i>, <i>Sociology of Education</i>, and <i>Proceedings of the National Academy of Sciences</i>, among others. It has been supported by generous funding from the Russell Sage Foundation/the Gates Foundation, the National Academy of Education/the Spencer Foundation, and the Institute of Education Sciences. 
+My research examines the processes that produce racial and socioeconomic inequality: the interplay between academic inequality and segregation in educational contexts, the ways that individual choices shape aggregate patterns of segregation, and how boundaries between social groups are maintained and negotiated. My work not only seeks to understand our most pressing social problems but also to identify policies and practices to reduce inequality. My research has been published in journals such as <i>Social Forces</i>, <i>Sociological Science</i>, <i>Sociology of Education</i>, and <i>Proceedings of the National Academy of Sciences</i>, among others. It has been supported by generous funding from the Russell Sage Foundation/the Gates Foundation, the National Academy of Education/the Spencer Foundation, and the Institute of Education Sciences. 
  
 The first strand of my research focuses on policy, segregation, and inequality in educational contexts. Inequality – in both opportunity and outcomes – is a stubbornly persistent feature of the American educational system. My work seeks to shed light on the extent of this inequality, how it develops, and the mechanisms that explain its endurance. For example, [recently published work](https://journals.sagepub.com/doi/10.3102/00028312221134769){:target="_blank"} examines how educational inequality has shifted in the post-recession, pre-pandemic period, mapping both how achievement disparities have changed over time and the extent to which they are predicted by changing segregation levels. Likewise, another [recent article](https://academic.oup.com/sf/advance-article/doi/10.1093/sf/soad110/7252817?utm_source=authortollfreelink&utm_campaign=sf&utm_medium=email&guestAccessKey=d1e2eb36-ec6f-4a90-9009-0f35b2201128){:target="_blank"} examines the sources of the Black gender gap in educational attainment, with a focus on understanding the role of punishment in shaping inequality over the life course. In addition, my ongoing work on these topics investigates the causal effects of school district secessions on achievement gaps and the causal effect of a first-dollar scholarship policy on college access in my home state of Michigan.
 
@@ -33,13 +33,12 @@ Further, my research agenda also interrogates the emergence of racial/ethnic cat
  <i>SocArXiv</i>&nbsp;[<span style="font-size: 15pt; color:#87ceeb">●</span>](https://osf.io/dj9pt/registrations){:target="_blank"}<br>
 <b> Marissa E. Thompson</b>, Sam Trejo, AJ Alvero, and Daphne O. Martschenko 
 
-## Forthcoming 
-
-Gender Segregation and Decision-Making in Undergraduate Course-Taking. <br> 
-Forthcoming at <i>Sociological Science</i><br>
-<b>Marissa E. Thompson</b>, Tobias Dalberg, and Elizabeth E. Bruch
 
 ## 2024
+
+[Gender Segregation and Decision-Making in Undergraduate Course-Taking.](https://sociologicalscience.com/articles-v11-37-1017/)<br>
+ <i>Sociological Science</i>&nbsp;[<span style="font-size: 15pt; color:#8fbc8f">●</span>](/research/Thompson_SocSci_2024.pdf){:target="_blank"} [<span style="font-size: 15pt; color:#b5a2c8">●</span>](https://osf.io/ya3t8/){:target="_blank"}<br>
+<b>Marissa E. Thompson</b>, Tobias Dalberg, and Elizabeth E. Bruch
 
 [The Effect of Academic Outcomes, Equity, and Student Demographics on Parental Preferences for Schools: Evidence from a Survey Experiment.](https://academic.oup.com/sf/advance-article/doi/10.1093/sf/soae101/7716414?utm_source=authortollfreelink&utm_campaign=sf&utm_medium=email&guestAccessKey=dec0934a-a449-413a-a5ae-d7c29bd4ad6f)<br>
  <i>Social Forces</i>&nbsp;[<span style="font-size: 15pt; color:#8fbc8f">●</span>](/research/Thompson_SF_2024b.pdf){:target="_blank"} [<span style="font-size: 15pt; color:#87ceeb">●</span>](https://osf.io/3qtcp){:target="_blank"} [<span style="font-size: 15pt; color:#b5a2c8">●</span>](https://github.com/marissaethompson/2024_SF_Thompson){:target="_blank"}<br>
