@@ -38,7 +38,7 @@ author:
 
 social:
 - {icon: "ion-mail", link: "mailto:marissa.thompson@columbia.edu"}
-- {icon: "ion-logo-twitter", link: "https://twitter.com/m_thompson"}
+#- {icon: "ion-logo-twitter", link: "https://twitter.com/m_thompson"}
 - {icon: "ion-logo-bluesky", link: "https://bsky.app/profile/marissathompson.bsky.social"}
 - {icon: "ion-logo-google", link: "https://scholar.google.com/citations?user=6MTeSgwAAAAJ&hl=en"}
 - {icon: "ion-school", link: "https://sociology.columbia.edu/content/marissa-e-thompson"}
