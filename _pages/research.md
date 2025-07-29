@@ -14,7 +14,7 @@ image:
 <!-- -->
 <!--Finally, my research agenda also interrogates the emergence of racial/ethnic categories themselves and how people draw boundaries between “us” and “them." For example, [ongoing work](https://osf.io/preprints/socarxiv/8tnrk/){:target="_blank"} examines how genetic ancestry tests (such as those available commercially through <i>23andMe</i> and <i>Ancestry.com</i>) affect the boundary-making processes of Black Americans as they grapple with their perceptions of who is – and isn’t – Black. Additionally, drawing from the case of the revision of official racial/ethnic categories on the upcoming 2030 U.S. census, [recently published work](https://academic.oup.com/sf/advance-article/doi/10.1093/sf/soaf075/8160603?utm_source=authortollfreelink&utm_campaign=sf&utm_medium=email&guestAccessKey=cba69615-b584-4f25-b83b-07029588d5be){:target="_blank"}  investigates how everyday Americans appeal for categorical recognition and frame their perceptions of contemporary and historical racial boundaries. This work advances theoretical understandings of the racial classification logics that shape the racial structure of the U.S. and addresses key social and policy questions, including debates over who should be eligible to benefit from policies such as affirmative action and reparations. -->
 
-# <center>Research</center>
+<!--# <center>Research</center>-->
 <i><font size="4"> <center>All articles are the sole copyright of the respective journals and publishers. PDFs below are provided as a professional courtesy for personal and educational use only.</center> </font></i>
  <center> <font size="2">
  * denotes joint first authorship &nbsp;
