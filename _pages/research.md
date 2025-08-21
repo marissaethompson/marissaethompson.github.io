@@ -33,6 +33,12 @@ image:
 <!-- <i>SocArXiv</i>&nbsp;[<span style="font-size: 15pt; color:#87ceeb">●</span>](https://osf.io/dj9pt/registrations){:target="_blank"}<br>-->
 <!--<b> Marissa E. Thompson</b>, Sam Trejo, AJ Alvero, and Daphne O. Martschenko -->
 
+## Forthcoming
+
+ Policing the boundaries of Blackness: How Black and White Americans evaluate racial self-identifications. <br>
+ <i>American Journal of Sociology</i>&nbsp;[<span style="font-size: 15pt; color:#87ceeb">●</span>](https://osf.io/dj9pt/registrations){:target="_blank"}<br>
+<b> Marissa E. Thompson</b>, Sam Trejo, AJ Alvero, and Daphne O. Martschenko 
+
 ## 2025
 
 ["Paper, practice, ancestry, culture": Racial frames and contested racial/ethnic census categories.](https://academic.oup.com/sf/advance-article/doi/10.1093/sf/soaf075/8160603?utm_source=authortollfreelink&utm_campaign=sf&utm_medium=email&guestAccessKey=cba69615-b584-4f25-b83b-07029588d5be)<br>
