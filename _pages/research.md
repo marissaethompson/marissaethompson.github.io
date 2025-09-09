@@ -27,16 +27,16 @@ image:
   <br>
 
 
-<!--## Working Papers -->
-<!---->
-<!-- [“They have Black in their blood”: Exploring how genetic ancestry tests affect racial appraisals and classifications.](https://osf.io/preprints/socarxiv/8tnrk/){:target="_blank"} <br>-->
-<!-- <i>SocArXiv</i>&nbsp;[<span style="font-size: 15pt; color:#87ceeb">●</span>](https://osf.io/dj9pt/registrations){:target="_blank"}<br>-->
-<!--<b> Marissa E. Thompson</b>, Sam Trejo, AJ Alvero, and Daphne O. Martschenko -->
+## Working Papers 
+
+ [Bureaucracy and Burden: Understanding Take-up of a Need-Based Financial Aid Program.](https://edworkingpapers.com/ai25-1283){:target="_blank"} <br>
+ <i>EdWorkingPapers</i><br>
+Elizabeth Burland, Jasmina Camo-Biogradlija, Kelcie Ferrara-Gerson, Xavier Fields, Katherine Michelmore, Nathan Sotherland, Kevin Stange, <b>Marissa E. Thompson</b>, Megan Tomkins-Stange. 
 
 ## Forthcoming
 
- Policing the boundaries of Blackness: How Black and White Americans evaluate racial self-identifications. <br>
- <i>American Journal of Sociology</i>&nbsp;[<span style="font-size: 15pt; color:#87ceeb">●</span>](https://osf.io/dj9pt/registrations){:target="_blank"}<br>
+ [Policing the boundaries of Blackness: How Black and White Americans evaluate racial self-identifications.](https://osf.io/preprints/socarxiv/8tnrk_v2){:target="_blank"}  <br>
+ <i>American Journal of Sociology</i>&nbsp;[<span style="font-size: 15pt; color:#87ceeb">●</span>](https://osf.io/dj9pt/registrations){:target="_blank"} [<span style="font-size: 15pt; color:#b5a2c8">●</span>](https://osf.io/dj9pt/){:target="_blank"}<br>
 <b> Marissa E. Thompson</b>, Sam Trejo, AJ Alvero, and Daphne O. Martschenko 
 
 ## 2025
