@@ -74,7 +74,7 @@ Elizabeth Burland, Jasmina Camo-Biogradlija, Kelcie Ferrara-Gerson, Xavier Field
 René F. Kizilcec, Rachel B. Baker, Elizabeth Bruch, Kalena E. Cortes, Laura T. Hamilton, David Nathan Lang, Zachary A. Pardos, <b>Marissa E. Thompson </b>, and Mitchell L. Stevens
 
 [Uneven Progress: Recent Trends in Academic Performance Among U.S. School Districts.](https://journals.sagepub.com/doi/10.3102/00028312221134769){:target="_blank"}<br> 
-<i>American Education Research Journal</i>&nbsp;[<span style="font-size: 15pt; color:#8fbc8f">●</span>](/research/Matheny_AERJ_2023.pdf){:target="_blank"}<br>
+<i>American Educational Research Journal</i>&nbsp;[<span style="font-size: 15pt; color:#8fbc8f">●</span>](/research/Matheny_AERJ_2023.pdf){:target="_blank"}<br>
 Kaylee T. Matheny \*, <b>Marissa E. Thompson\*</b>, Carrie Townley Flores\*, and Sean F. Reardon 
 
 ## 2021 
