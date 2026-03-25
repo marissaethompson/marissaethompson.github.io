@@ -58,6 +58,7 @@ hero:
         
 #          <p><p>Previously, I earned a Ph.D. from Stanford University in 2021 and a B.S.E from the University of Pennsylvania in 2016. I also completed a postdoctoral fellowship with the  <a href="https://edpolicy.umich.edu/" target="_blank" onmouseover="this.style.textDecorationLine = 'underline'; this.style.textDecorationColor = '#808080';" onmouseout="this.style.textDecorationLine = 'none';">Education Policy Initiative</a> at the University of Michigan.
         
+#          I use a variety of empirical approaches in my work, including quantitative, computational, and experimental methods.
 
   hero__image: '/images/Thompson_zoomed.JPG'
 
