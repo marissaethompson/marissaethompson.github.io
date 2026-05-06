@@ -124,7 +124,7 @@ Adina D. Sterling, <b>Marissa E. Thompson</b>, and Devon Rojas
 <summary>
 <a href="https://journals.sagepub.com/doi/full/10.1177/00380407231213342" target="_blank"><i>My</i> School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation.</a><br>
 <i>Sociology of Education</i>&nbsp;<a href="/research/Thompson_SOE_2024.pdf" target="_blank"><span style="font-size: 15pt; color:#8fbc8f">●</span></a> <a href="https://osf.io/ucvt6" target="_blank"><span style="font-size: 15pt; color:#87ceeb">●</span></a> <a href="https://github.com/sam-trejo/2023_08_socedu_seg_exp" target="_blank"><span style="font-size: 15pt; color:#b5a2c8">●</span></a><br>
-<b>Marissa E. Thompson\*</b> and Sam Trejo\*
+<b>Marissa E. Thompson*</b> and Sam Trejo*
 </summary>
 <p class="abstract">U.S. public schools are increasingly segregated by income, resulting in substantial educational inequality among U.S. schoolchildren. We conducted a nationally representative survey to explore the relationship between parental beliefs about and preferences regarding school segregation. Using experimental manipulation, we tested if learning about levels of school segregation in their local school district affects a parent’s attitudes and preferences regarding school segregation. In doing so, our study helps elucidate whether disagreement with respect to segregation-reducing policies stems from differences in parental beliefs about the extent of segregation in their district or from differences in parental preferences given existing levels of segregation. We found that parents hold largely inaccurate beliefs about local segregation levels and underestimate, on average, the economic segregation in their district. However, information treatments that correct inaccurate beliefs do little to influence support for policies to reduce segregation.</p>
 </details>
@@ -162,7 +162,7 @@ René F. Kizilcec, Rachel B. Baker, Elizabeth Bruch, Kalena E. Cortes, Laura T. 
 <summary>
 <a href="https://journals.sagepub.com/doi/10.3102/00028312221134769" target="_blank">Uneven Progress: Recent Trends in Academic Performance Among U.S. School Districts.</a><br>
 <i>American Educational Research Journal</i>&nbsp;<a href="/research/Matheny_AERJ_2023.pdf" target="_blank"><span style="font-size: 15pt; color:#8fbc8f">●</span></a><br>
-Kaylee T. Matheny\*, <b>Marissa E. Thompson\*</b>, Carrie Townley Flores\*, and Sean F. Reardon
+Kaylee T. Matheny*, <b>Marissa E. Thompson*</b>, Carrie Townley Flores*, and Sean F. Reardon
 </summary>
 <p class="abstract">We use data from the Stanford Education Data Archive to describe district-level trends in average academic achievement between 2009 and 2019. Although on average school districts’ test scores improved very modestly (by about 0.001 standard deviations per year), there is significant variation among districts. Moreover, we find that average test score disparities between nonpoor and poor students and between White and Black students are growing; those between White and Hispanic students are shrinking. We find no evidence of achievement-equity synergies or trade-offs: Improvements in overall achievement are uncorrelated with trends in achievement disparities. Finally, we find that the strongest predictors of achievement disparity trends are the levels and trends in within-district racial and socioeconomic segregation and changes in differential access to certified teachers.</p>
 </details>
