@@ -30,7 +30,7 @@ image:
 <details>
 <summary>
 <a href="https://edworkingpapers.com/ai25-1283" target="_blank">Bureaucracy and Burden: Understanding Take-up of a Need-Based Financial Aid Program.</a><br>
-<i>Ed Working Papers</i><br>
+<i>EdWorkingPapers</i><br>
 Elizabeth Burland, Jasmina Camo-Biogradlija, Kelcie Ferrara-Gerson, Xavier Fields, Katherine Michelmore, Nathan Sotherland, Kevin Stange, <b>Marissa E. Thompson</b>, and Megan Tomkins-Stange.
 </summary>
 <p class="abstract">Social welfare programs, including college financial aid, often only reach a fraction of eligible beneficiaries. We examine this problem through the lens of Michigan’s Tuition Incentive Program (TIP), a state need-based grant aid program. We conduct a large-scale mixed-methods study using data on over one million Michigan public-school students, and 55 interviews with front-line administrators, high school counselors, and financial aid staff. We find that while one third of Michigan high school graduates are eligible for TIP, its take-up rate is only 14 percent, diminishing its impact on college affordability. We identify key barriers that shape take-up: the presence of administrative burdens, and constraints faced by front-line administrators in alleviating these burdens when administrative responsibility is fractured and ill-defined.</p>
