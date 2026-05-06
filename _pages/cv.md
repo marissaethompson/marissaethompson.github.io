@@ -6,7 +6,8 @@ image:
 ---
 
 <center>
-<embed src="\cv\Thompson_CV.pdf" width="595" height="842" 
+
+<embed src="\cv\Thompson_CV.pdf" width="100%" height="892" 
  type="application/pdf">
  
  <br>
