@@ -39,24 +39,36 @@
 
 
 /* MT added */
-.sharebuttons {
-  margin: 0 auto 0 auto;
+.sharebuttons { margin: 0 auto 0 auto; }
+.sharebuttons ul { margin: 20px 0 0 0; text-align: center; }
+.sharebuttons ul li { display: inline; }
+.sharebuttons ul li a { text-decoration: none; }
+.sharebuttons ul li svg { width: 25px; height: 25px; }
+
+details { margin-bottom: 1em; }
+h2 { margin-top: 1.5em; }
+
+details > summary {
+  list-style: none;
+  cursor: pointer;
+}
+details > summary::after {
+  content: "\a[show abstract]";
+  white-space: pre;
+  display: block;
+  font-size: 0.85em;
+  color: #4f7f4f;
+  margin-top: -1.5em;
+}
+details[open] > summary::after {
+  content: "\a[hide abstract]";
+  white-space: pre;
+  display: block;
 }
 
-.sharebuttons ul {
-  margin: 20px 0 0 0;
-  text-align: center;
-}
-
-.sharebuttons ul li {
-  display: inline;
-}
-
-.sharebuttons ul li a {
-  text-decoration: none;
-}
-
-.sharebuttons ul li svg {
-  width: 25px;
-  height: 25px;
+.abstract {
+  color: #555555;
+  font-size: 0.95em;
+  border-left: 3px solid #4f7f4f;
+  padding-left: 1em;
 }
