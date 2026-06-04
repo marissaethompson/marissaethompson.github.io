@@ -55,7 +55,7 @@ What does it mean to be Black?: Experimental evidence on the situational deploym
 <summary>
 <a href="https://osf.io/preprints/socarxiv/ncakt_v1" target="_blank">DNA Reveals the Growing Ancestral Diversity of the United States.</a><br>
 <i>APC Working Papers</i><br>
-Sam Trejo and <b>Marissa E. Thompson</b>.
+Sam Trejo and <b>Marissa E. Thompson</b>
 </summary>
 <p class="abstract">Demographic research often seeks to assess changes to the characteristics of a population over time. However, many sociodemographic variables, like race/ethnicity, are self-reported measures that correspond to a subjective sense of identity; this makes it challenging to distinguish (1) changes to fixed characteristics of a population from (2) changing social norms and patterns of self-identification. To address this issue, we utilize genetic similarity proportions (GSPs), which quantify the fraction of a person’s DNA linked to various present-day reference populations. We analyze the dynamic relationship between race/ethnicity and GSPs across three American birth cohorts: 1945, 1980, and 2015. Our results highlight the growing ancestral diversity of the U.S. over time, including both within-race/ethnicity shifts in average GSPs and changes to the association between GSPs and racial/ethnic identification.</p>
 </details>
@@ -64,7 +64,7 @@ Sam Trejo and <b>Marissa E. Thompson</b>.
 <summary>
 <a href="https://edworkingpapers.com/ai25-1283" target="_blank">Bureaucracy and Burden: Understanding Take-up of a Need-Based Financial Aid Program.</a><br>
 <i>EdWorkingPapers</i><br>
-Elizabeth Burland, Jasmina Camo-Biogradlija, Kelcie Ferrara-Gerson, Xavier Fields, Katherine Michelmore, Nathan Sotherland, Kevin Stange, <b>Marissa E. Thompson</b>, and Megan Tomkins-Stange.
+Elizabeth Burland, Jasmina Camo-Biogradlija, Kelcie Ferrara-Gerson, Xavier Fields, Katherine Michelmore, Nathan Sotherland, Kevin Stange, <b>Marissa E. Thompson</b>, and Megan Tomkins-Stange
 </summary>
 <p class="abstract">Social welfare programs, including college financial aid, often only reach a fraction of eligible beneficiaries. We examine this problem through the lens of Michigan’s Tuition Incentive Program (TIP), a state need-based grant aid program. We conduct a large-scale mixed-methods study using data on over one million Michigan public-school students, and 55 interviews with front-line administrators, high school counselors, and financial aid staff. We find that while one third of Michigan high school graduates are eligible for TIP, its take-up rate is only 14 percent, diminishing its impact on college affordability. We identify key barriers that shape take-up: the presence of administrative burdens, and constraints faced by front-line administrators in alleviating these burdens when administrative responsibility is fractured and ill-defined.</p>
 </details>
