@@ -29,7 +29,7 @@ image:
 ## Working Papers & Manuscripts Under Review
 <details>
 <summary>
-"Being Black is not just some costume": How Black Americans narrate moral judgements regarding racial boundary-crossing.<br>
+"Being Black is not just some costume": How Black Americans narrate moral judgments regarding racial boundary-crossing.<br>
 Conditionally accepted at <i>Social Problems</i>.<br>
 <b>Marissa E. Thompson</b>, Sam Trejo, AJ Alvero, and Daphne O. Martschenko
 </summary>
