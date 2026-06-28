@@ -37,14 +37,6 @@ image:
 
 <details>
 <summary>
-What does it mean to be Black?: Experimental evidence on the situational deployment of racial schemas.<br>
-<b>Marissa E. Thompson</b>, AJ Alvero, Sam Trejo, and Daphne O. Martschenko
-</summary>
-<p class="abstract">How do Black Americans construct narratives about the meaning and boundaries of Blackness in America today? We leverage an original, nationally-representative survey experiment among U.S.-born Black Americans (n=3,100) to examine (1) justifications used to validate or reject another’s racial self-identification as Black and (2) how situational cues shape these narratives. Using a vignette experiment and structural topic modeling, we find that both the social context (e.g., a census form vs. scholarship application) and the prior self-identification of the vignette individual affect the topics invoked by respondents, while genetic ancestry test information has no meaningful treatment effects. All told, we demonstrate that racial schemas—including frameworks emphasizing race as a personal choice or invoking the one-drop rule—are situationally deployed rather than fixed. We also highlight the limits of standard quantitative measures of racial classification, which do not entirely capture the nuanced ways that underlying narratives about race and belonging develop in contemporary Americans’ minds. </p>
-</details>
-
-<details>
-<summary>
 <i>One Fell Through the Safety Net</i>: Embeddedness and Take Up of Social Benefits.<br>
 <b>Marissa E. Thompson</b>, Katherine Michelmore, Kelcie Ferrara-Gerson, Nathan Sotherland, and Kevin Stange
 </summary>
@@ -69,16 +61,25 @@ Elizabeth Burland, Jasmina Camo-Biogradlija, Kelcie Ferrara-Gerson, Xavier Field
 <p class="abstract">Social welfare programs, including college financial aid, often only reach a fraction of eligible beneficiaries. We examine this problem through the lens of Michigan’s Tuition Incentive Program (TIP), a state need-based grant aid program. We conduct a large-scale mixed-methods study using data on over one million Michigan public-school students, and 55 interviews with front-line administrators, high school counselors, and financial aid staff. We find that while one third of Michigan high school graduates are eligible for TIP, its take-up rate is only 14 percent, diminishing its impact on college affordability. We identify key barriers that shape take-up: the presence of administrative burdens, and constraints faced by front-line administrators in alleviating these burdens when administrative responsibility is fractured and ill-defined.</p>
 </details>
 
-<!--<details>-->
-<!--<summary>-->
-<!--When Employer Commitment Does (Not) Produce Racialized Effects in Hiring.<br>-->
-<!--Adina D. Sterling, <b>Marissa E. Thompson</b>, and Devon Rojas-->
-<!--</summary>-->
-<!--<p class="abstract">Theory suggests that racial discrimination in labor markets is weakened when there is greater certainty about the capabilities of job candidates. However, early career individuals lack a track record of success, which leaves employers uncertain about their capabilities. In this study, we develop a theory on how racial discrimination in labor markets is reduced, even when candidates are unproven early in their careers. We argue that when employer commitment is low such as in internships, employers are less concerned about the potential downsides of hiring mistakes, and as a result, the influence of the race of candidates matters less than when employer commitment is greater, such as in entry-level jobs. To examine our theory, we place a novel field experiment using the candidate profiles of early stage candidates that vary by race and also conduct qualitative interviews. Consistent with our arguments on employer commitment, we find that for internships, a candidate’s race is less likely to predict whether they are selected compared to entry-level full-time jobs. We close with a discussion on how this study deepens our knowledge of organizations, race, and labor markets, and why without attending to early careers, our theories on addressing racial inequality are incomplete.</p>-->
-<!--</details>-->
+<details>
+<summary>
+When Employer Commitment Does (Not) Produce Racialized Effects in Hiring.<br>
+Adina D. Sterling, <b>Marissa E. Thompson</b>, and Devon Rojas
+</summary>
+<p class="abstract">Theory suggests that racial discrimination in labor markets is weakened when there is greater certainty about the capabilities of job candidates. However, early career individuals lack a track record of success, which leaves employers uncertain about their capabilities. In this study, we develop a theory on how racial discrimination in labor markets is reduced, even when candidates are unproven early in their careers. We argue that when employer commitment is low such as in internships, employers are less concerned about the potential downsides of hiring mistakes, and as a result, the influence of the race of candidates matters less than when employer commitment is greater, such as in entry-level jobs. To examine our theory, we place a novel field experiment using the candidate profiles of early stage candidates that vary by race and also conduct qualitative interviews. Consistent with our arguments on employer commitment, we find that for internships, a candidate’s race is less likely to predict whether they are selected compared to entry-level full-time jobs. We close with a discussion on how this study deepens our knowledge of organizations, race, and labor markets, and why without attending to early careers, our theories on addressing racial inequality are incomplete.</p>
+</details>
   <br>
 # <center>Publications</center>
 
+<h2>Forthcoming</h2>
+<details>
+<summary>
+What does it mean to be Black?: Experimental evidence on the situational deployment of racial schemas.<br>
+<i>Sociology of Race and Ethnicity</i><br>
+<b>Marissa E. Thompson</b>, AJ Alvero, Sam Trejo, and Daphne O. Martschenko
+</summary>
+<p class="abstract">How do Black Americans construct narratives about the meaning and boundaries of Blackness in America today? We leverage an original, nationally-representative survey experiment among U.S.-born Black Americans (n=3,100) to examine (1) justifications used to validate or reject another’s racial self-identification as Black and (2) how situational cues shape these narratives. Using a vignette experiment and structural topic modeling, we find that both the social context (e.g., a census form vs. scholarship application) and the prior self-identification of the vignette individual affect the topics invoked by respondents, while genetic ancestry test information has no meaningful treatment effects. All told, we demonstrate that racial schemas—including frameworks emphasizing race as a personal choice or invoking the one-drop rule—are situationally deployed rather than fixed. We also highlight the limits of standard quantitative measures of racial classification, which do not entirely capture the nuanced ways that underlying narratives about race and belonging develop in contemporary Americans’ minds. </p>
+</details>
 
 <h2>2026</h2>
 
