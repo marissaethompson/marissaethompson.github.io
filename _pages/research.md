@@ -76,7 +76,7 @@ Adina D. Sterling, <b>Marissa E. Thompson</b>, and Devon Rojas
 <details>
 <summary>
 What does it mean to be Black?: Experimental evidence on the situational deployment of racial schemas.<br>
-<i>Sociology of Race and Ethnicity</i><br>
+<i>Sociology of Race and Ethnicity</i>&nbsp;<a href="https://osf.io/dj9pt/registrations" target="_blank"><span style="font-size: 15pt; color:#87ceeb">●</span></a> <a href="https://osf.io/dj9pt/" target="_blank"><span style="font-size: 15pt; color:#b5a2c8">●</span></a><br>
 <b>Marissa E. Thompson</b>, AJ Alvero, Sam Trejo, and Daphne O. Martschenko
 </summary>
 <p class="abstract">How do Black Americans construct narratives about the meaning and boundaries of Blackness in America today? We leverage an original, nationally representative survey experiment among U.S.-born Black Americans (n=3,100) to examine (1) justifications used to validate or reject another’s racial self-identification as Black and (2) how situational cues shape these narratives. Using a vignette experiment and structural topic modeling, we find that both the social context (e.g., a census form vs. scholarship application) and the prior self-identification of the vignette individual affect the topics invoked by respondents, while genetic ancestry test information has no meaningful treatment effects. All told, we demonstrate that racial schemas—including frameworks emphasizing race as a personal choice or invoking the one-drop rule—are situationally deployed rather than fixed. We also highlight the limits of standard quantitative measures of racial classification, which do not entirely capture the nuanced ways that underlying narratives about race and belonging develop in contemporary Americans’ minds. </p>
