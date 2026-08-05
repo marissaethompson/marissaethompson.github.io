@@ -5,6 +5,11 @@ permalink: /research/
 image:  
 ---
 <meta name="robots" content="noindex">
+<style>
+details {
+  margin-bottom: 2.25em;
+}
+</style>
 # <center>Research</center>
 <!--Broadly, my research examines the processes that both generate and reduce inequality. For instance, I investigate the collective consequences of seemingly individual decisions; how boundaries between social groups are maintained and negotiated; and the entrenched nature of educational and labor market stratification. My work not only seeks to understand persistent social problems but also to identify policies and practices to reduce inequality. My research has been published in journals such as the <i>American Journal of Sociology</i>, <i>PNAS</i>, <i>Social Forces</i>, <i>Sociological Science</i>, and <i>Sociology of Education</i>. In addition, my work has been supported by generous funding from the Russell Sage Foundation (RSF), the Gates Foundation, the National Academy of Education (NAEd), the Spencer Foundation, and the Institute of Education Sciences (IES).-->
 <!---->
@@ -29,7 +34,7 @@ image:
 ## Working Papers & Manuscripts Under Review
 <details>
 <summary>
-<i>One Fell Through the Safety Net</i>: Embeddedness and Take Up of Social Benefits.<br>
+<i>One Fell Through the Safety Net</i>: Embeddedness and the Take Up of Social Benefits.<br>
 <b>Marissa E. Thompson</b>, Katherine Michelmore, Kelcie Ferrara-Gerson, Nathan Sotherland, and Kevin Stange
 </summary>
 <p class="abstract">The U.S. social safety net comprises a patchwork quilt of welfare programs, but not all eligible beneficiaries receive aid. Incomplete take-up suggests that some children and families are not receiving access to the education, healthcare, housing, and income needed to break the cycle of poverty and may reflect unequal burdens in accessing benefits. We examine incomplete take-up using the case of Michigan’s largest need-based financial aid program, where eligibility is based on childhood Medicaid participation. Somewhat surprisingly, we find that economic disadvantage—proxied by duration of childhood on Medicaid—is positively associated with take-up, suggesting that those most in need have highest take-up rates. While prior work has focused on the relationship between individuals and single programs in isolation, we illustrate how embeddedness (both of individuals within programs and individuals within communities) can help explain patterns of incomplete benefit take-up. Those with consistent safety net attachment—continuous Medicaid enrollment and participation in other programs like food stamps—have higher take-up than those with inconsistent attachment, despite similar need. Additionally, community-level take-up among the network of one’s peers is associated with individual take-up patterns. Overall, we argue that policies to improve take-up might be more effective if safety net take-up is considered collectively rather than individually.</p>
@@ -73,16 +78,16 @@ Adina D. Sterling, <b>Marissa E. Thompson</b>, and Devon Rojas
 <p class="abstract">When is changing one’s racial self-identification perceived as a moral vs. an immoral act? We examine this question using free responses drawn from a nationally representative survey of Black Americans (n=760). To do so, we provided respondents with vignettes about a fictitious individual who has changed their racial self-identification after taking a genetic ancestry test. Further, we experimentally varied the context of the vignette between self-identification on a census and on a college scholarship application. We find that respondents who frame responses using moral opposition tend to do so when they infer that the vignette individual is not self-identifying consistently across settings. This rejection is especially salient in scarce resource contexts–where there may be opportunities for strategic self-identification–but are not exclusive to them. In contrast, when identifications are assumed to reflect a permanent shift in identity (particularly one that with a genuine embracement of Black culture and heritage), respondents instead validated the moral character of the vignette individual. We highlight a pattern that we term <i>racial consistency</i>: the perception that a change in one’s racial identity can be morally justified if it is durable and persists regardless of any benefits or hardships experienced. </p>
 </details>
 
+<h2>2026</h2>
+
 <details>
 <summary>
-What does it mean to be Black?: Experimental evidence on the situational deployment of racial schemas.<br>
-<i>Sociology of Race and Ethnicity</i>&nbsp;<a href="https://osf.io/dj9pt/registrations" target="_blank"><span style="font-size: 15pt; color:#87ceeb">●</span></a> <a href="https://osf.io/dj9pt/" target="_blank"><span style="font-size: 15pt; color:#b5a2c8">●</span></a><br>
+<a href="https://doi.org/10.1177/23326492261469562" target="_blank">What does it mean to be Black?: Experimental evidence on the situational deployment of racial schemas.</a><br>
+<i>Sociology of Race and Ethnicity</i>&nbsp;<a href="/research/Thompson_SRE_2026.pdf" target="_blank"><span style="font-size: 15pt; color:#8fbc8f">●</span></a> <a href="https://osf.io/dj9pt/registrations" target="_blank"><span style="font-size: 15pt; color:#87ceeb">●</span></a> <a href="https://osf.io/dj9pt/" target="_blank"><span style="font-size: 15pt; color:#b5a2c8">●</span></a><br>
 <b>Marissa E. Thompson</b>, AJ Alvero, Sam Trejo, and Daphne O. Martschenko
 </summary>
 <p class="abstract">How do Black Americans construct narratives about the meaning and boundaries of Blackness in America today? We leverage an original, nationally representative survey experiment among U.S.-born Black Americans (n=3,100) to examine (1) justifications used to validate or reject another’s racial self-identification as Black and (2) how situational cues shape these narratives. Using a vignette experiment and structural topic modeling, we find that both the social context (e.g., a census form vs. scholarship application) and the prior self-identification of the vignette individual affect the topics invoked by respondents, while genetic ancestry test information has no meaningful treatment effects. All told, we demonstrate that racial schemas—including frameworks emphasizing race as a personal choice or invoking the one-drop rule—are situationally deployed rather than fixed. We also highlight the limits of standard quantitative measures of racial classification, which do not entirely capture the nuanced ways that underlying narratives about race and belonging develop in contemporary Americans’ minds. </p>
 </details>
-
-<h2>2026</h2>
 
 <details>
 <summary>
