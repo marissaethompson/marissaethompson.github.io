@@ -49,14 +49,6 @@ Sam Trejo and <b>Marissa E. Thompson</b>
 <p class="abstract">Demographic research often seeks to assess changes to the characteristics of a population over time. However, many sociodemographic variables, like race/ethnicity, are self-reported measures that correspond to a subjective sense of identity; this makes it challenging to distinguish (1) changes to fixed characteristics of a population from (2) changing social norms and patterns of self-identification. To address this issue, we utilize genetic similarity proportions (GSPs), which quantify the fraction of a person’s DNA linked to various present-day reference populations. We analyze the dynamic relationship between race/ethnicity and GSPs across three American birth cohorts: 1945, 1980, and 2015. Our results highlight the growing ancestral diversity of the U.S. over time, including both within-race/ethnicity shifts in average GSPs and changes to the association between GSPs and racial/ethnic identification.</p>
 </details>
 
-<details>
-<summary>
-<a href="https://edworkingpapers.com/ai25-1283" target="_blank">Bureaucracy and Burden: Understanding Take-up of a Need-Based Financial Aid Program.</a><br>
-<i>EdWorkingPapers</i><br>
-Elizabeth Burland, Jasmina Camo-Biogradlija, Kelcie Ferrara-Gerson, Xavier Fields, Katherine Michelmore, Nathan Sotherland, Kevin Stange, <b>Marissa E. Thompson</b>, and Megan Tomkins-Stange
-</summary>
-<p class="abstract">Social welfare programs, including college financial aid, often only reach a fraction of eligible beneficiaries. We examine this problem through the lens of Michigan’s Tuition Incentive Program (TIP), a state need-based grant aid program. We conduct a large-scale mixed-methods study using data on over one million Michigan public-school students, and 55 interviews with front-line administrators, high school counselors, and financial aid staff. We find that while one third of Michigan high school graduates are eligible for TIP, its take-up rate is only 14 percent, diminishing its impact on college affordability. We identify key barriers that shape take-up: the presence of administrative burdens, and constraints faced by front-line administrators in alleviating these burdens when administrative responsibility is fractured and ill-defined.</p>
-</details>
 
 <details>
 <summary>
@@ -78,16 +70,16 @@ Adina D. Sterling, <b>Marissa E. Thompson</b>, and Devon Rojas
 <p class="abstract">When is changing one’s racial self-identification perceived as a moral vs. an immoral act? We examine this question using free responses drawn from a nationally representative survey of Black Americans (n=760). To do so, we provided respondents with vignettes about a fictitious individual who has changed their racial self-identification after taking a genetic ancestry test. Further, we experimentally varied the context of the vignette between self-identification on a census and on a college scholarship application. We find that respondents who frame responses using moral opposition tend to do so when they infer that the vignette individual is not self-identifying consistently across settings. This rejection is especially salient in scarce resource contexts–where there may be opportunities for strategic self-identification–but are not exclusive to them. In contrast, when identifications are assumed to reflect a permanent shift in identity (particularly one that with a genuine embracement of Black culture and heritage), respondents instead validated the moral character of the vignette individual. We highlight a pattern that we term <i>racial consistency</i>: the perception that a change in one’s racial identity can be morally justified if it is durable and persists regardless of any benefits or hardships experienced. </p>
 </details>
 
-<h2>2026</h2>
-
 <details>
 <summary>
-<a href="https://doi.org/10.1177/23326492261469562" target="_blank">What does it mean to be Black?: Experimental evidence on the situational deployment of racial schemas.</a><br>
-<i>Sociology of Race and Ethnicity</i>&nbsp;<a href="/research/Thompson_SRE_2026.pdf" target="_blank"><span style="font-size: 15pt; color:#8fbc8f">●</span></a> <a href="https://osf.io/dj9pt/registrations" target="_blank"><span style="font-size: 15pt; color:#87ceeb">●</span></a> <a href="https://osf.io/dj9pt/" target="_blank"><span style="font-size: 15pt; color:#b5a2c8">●</span></a><br>
-<b>Marissa E. Thompson</b>, AJ Alvero, Sam Trejo, and Daphne O. Martschenko
+<a href="https://edworkingpapers.com/ai25-1283" target="_blank">Bureaucracy and Burden: Understanding Take-up of a Need-Based Financial Aid Program.</a><br>
+<i>American Educational Research Journal</i><br>
+Elizabeth Burland, Jasmina Camo-Biogradlija, Kelcie Ferrara-Gerson, Xavier Fields, Katherine Michelmore, Nathan Sotherland, Kevin Stange, <b>Marissa E. Thompson</b>, and Megan Tomkins-Stange
 </summary>
-<p class="abstract">How do Black Americans construct narratives about the meaning and boundaries of Blackness in America today? We leverage an original, nationally representative survey experiment among U.S.-born Black Americans (n=3,100) to examine (1) justifications used to validate or reject another’s racial self-identification as Black and (2) how situational cues shape these narratives. Using a vignette experiment and structural topic modeling, we find that both the social context (e.g., a census form vs. scholarship application) and the prior self-identification of the vignette individual affect the topics invoked by respondents, while genetic ancestry test information has no meaningful treatment effects. All told, we demonstrate that racial schemas—including frameworks emphasizing race as a personal choice or invoking the one-drop rule—are situationally deployed rather than fixed. We also highlight the limits of standard quantitative measures of racial classification, which do not entirely capture the nuanced ways that underlying narratives about race and belonging develop in contemporary Americans’ minds. </p>
+<p class="abstract">Social welfare programs, including college financial aid, often only reach a fraction of eligible beneficiaries. We examine this problem through the lens of Michigan’s Tuition Incentive Program (TIP), a state need-based grant aid program. We conduct a large-scale mixed-methods study using data on over one million Michigan public-school students, and 55 interviews with front-line administrators, high school counselors, and financial aid staff. We find that while one third of Michigan high school graduates are eligible for TIP, its take-up rate is only 14 percent, diminishing its impact on college affordability. We identify key barriers that shape take-up: the presence of administrative burdens, and constraints faced by front-line administrators in alleviating these burdens when administrative responsibility is fractured and ill-defined.</p>
 </details>
+
+<h2>2026</h2>
 
 <details>
 <summary>
@@ -105,6 +97,15 @@ Adina D. Sterling, <b>Marissa E. Thompson</b>, and Devon Rojas
 <b>Marissa E. Thompson</b>
 </summary>
 <p class="abstract">How do individuals and groups frame their appeals to change official racial/ethnic categories and explain their perceptions of the underlying boundaries that such categories reflect? This article draws from the case of revisions to the 2030 U.S. census categories using the universe of the over 20,000 public comments submitted to the federal government in response to proposed changes. Using an integrated computational text analysis and qualitative approach, I find that three sets of strategies characterize the general deployment of racial frames across comments. The first describes the broader characteristics that are perceived to define a given category; the second grapples with the historical and contemporary nature of racial/ethnic boundaries; and the third situates the placement of a given group in the existing racial order. I then examine the use of these strategies in reference to the proposed Middle Eastern and North African category and to the existing Black/African American and Hispanic/Latino categories. Finally, I examine the resonance of particular frames and strategies by illustrating the extent to which they were submitted on behalf of organizations or duplicated widely by individual actors. Together, this study advances our broader understanding of the dynamic nature of racial/ethnic categories and the boundaries that they are perceived to represent.</p>
+</details>
+
+<details>
+<summary>
+<a href="https://doi.org/10.1177/23326492261469562" target="_blank">What does it mean to be Black?: Experimental evidence on the situational deployment of racial schemas.</a><br>
+<i>Sociology of Race and Ethnicity</i>&nbsp;<a href="/research/Thompson_SRE_2026.pdf" target="_blank"><span style="font-size: 15pt; color:#8fbc8f">●</span></a> <a href="https://osf.io/dj9pt/registrations" target="_blank"><span style="font-size: 15pt; color:#87ceeb">●</span></a> <a href="https://osf.io/dj9pt/" target="_blank"><span style="font-size: 15pt; color:#b5a2c8">●</span></a><br>
+<b>Marissa E. Thompson</b>, AJ Alvero, Sam Trejo, and Daphne O. Martschenko
+</summary>
+<p class="abstract">How do Black Americans construct narratives about the meaning and boundaries of Blackness in America today? We leverage an original, nationally representative survey experiment among U.S.-born Black Americans (n=3,100) to examine (1) justifications used to validate or reject another’s racial self-identification as Black and (2) how situational cues shape these narratives. Using a vignette experiment and structural topic modeling, we find that both the social context (e.g., a census form vs. scholarship application) and the prior self-identification of the vignette individual affect the topics invoked by respondents, while genetic ancestry test information has no meaningful treatment effects. All told, we demonstrate that racial schemas—including frameworks emphasizing race as a personal choice or invoking the one-drop rule—are situationally deployed rather than fixed. We also highlight the limits of standard quantitative measures of racial classification, which do not entirely capture the nuanced ways that underlying narratives about race and belonging develop in contemporary Americans’ minds. </p>
 </details>
 
 <h2>2024</h2>
