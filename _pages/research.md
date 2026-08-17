@@ -10,7 +10,7 @@ details {
   margin-bottom: 2.25em;
 }
 </style>
-# <center>Research</center>
+# <center>Publications</center>
 <!--Broadly, my research examines the processes that both generate and reduce inequality. For instance, I investigate the collective consequences of seemingly individual decisions; how boundaries between social groups are maintained and negotiated; and the entrenched nature of educational and labor market stratification. My work not only seeks to understand persistent social problems but also to identify policies and practices to reduce inequality. My research has been published in journals such as the <i>American Journal of Sociology</i>, <i>PNAS</i>, <i>Social Forces</i>, <i>Sociological Science</i>, and <i>Sociology of Education</i>. In addition, my work has been supported by generous funding from the Russell Sage Foundation (RSF), the Gates Foundation, the National Academy of Education (NAEd), the Spencer Foundation, and the Institute of Education Sciences (IES).-->
 <!---->
 <!--The first strand of my research examines the role that individual decision-making plays in broader patterns of social stratification. We are each tasked with making a number of choices while navigating civic institutions – such as what school to send a child to, what college major to declare, or which neighborhood to move to – and these seemingly independent decisions have community-level consequences. My ongoing and [recently published](https://academic.oup.com/sf/advance-article/doi/10.1093/sf/soae101/7716414?utm_source=authortollfreelink&utm_campaign=sf&utm_medium=email&guestAccessKey=dec0934a-a449-413a-a5ae-d7c29bd4ad6f){:target="_blank"} work in this vein examines how parents of school-aged children choose a school for their child. Here, I leverage a series of novel survey experiments to explore how status competition and boundary maintenance shape parental engagement with ranked educational data, such as the information one might find on <i>GreatSchools.org</i>. I also focus on undergraduate [course and major selection](https://sociologicalscience.com/articles-v11-37-1017/){:target="_blank"} as a second site for understanding the granular process of consideration and choice, drawing on clickstream data from a course choice platform at a large research university. Further, I study perceptions and misperceptions of inequality, including [experimental work](https://journals.sagepub.com/doi/full/10.1177/00380407231213342){:target="_blank"} on the extent to which Americans have accurate beliefs about local segregation levels and how people distinguish between fair and unfair forms of inequality. -->
@@ -30,35 +30,35 @@ details {
  </font>
  </center>
   <br>
-
-## Working Papers & Manuscripts Under Review
-<details>
-<summary>
-<i>One Fell Through the Safety Net</i>: Embeddedness and the Take Up of Social Benefits.<br>
-<b>Marissa E. Thompson</b>, Katherine Michelmore, Kelcie Ferrara-Gerson, Nathan Sotherland, and Kevin Stange
-</summary>
-<p class="abstract">The U.S. social safety net comprises a patchwork quilt of welfare programs, but not all eligible beneficiaries receive aid. Incomplete take-up suggests that some children and families are not receiving access to the education, healthcare, housing, and income needed to break the cycle of poverty and may reflect unequal burdens in accessing benefits. We examine incomplete take-up using the case of Michigan’s largest need-based financial aid program, where eligibility is based on childhood Medicaid participation. Somewhat surprisingly, we find that economic disadvantage—proxied by duration of childhood on Medicaid—is positively associated with take-up, suggesting that those most in need have highest take-up rates. While prior work has focused on the relationship between individuals and single programs in isolation, we illustrate how embeddedness (both of individuals within programs and individuals within communities) can help explain patterns of incomplete benefit take-up. Those with consistent safety net attachment—continuous Medicaid enrollment and participation in other programs like food stamps—have higher take-up than those with inconsistent attachment, despite similar need. Additionally, community-level take-up among the network of one’s peers is associated with individual take-up patterns. Overall, we argue that policies to improve take-up might be more effective if safety net take-up is considered collectively rather than individually.</p>
-</details>
-
-<details>
-<summary>
-<a href="https://osf.io/preprints/socarxiv/ncakt_v1" target="_blank">DNA Reveals the Growing Ancestral Diversity of the United States.</a><br>
-<i>APC Working Papers</i><br>
-Sam Trejo and <b>Marissa E. Thompson</b>
-</summary>
-<p class="abstract">Demographic research often seeks to assess changes to the characteristics of a population over time. However, many sociodemographic variables, like race/ethnicity, are self-reported measures that correspond to a subjective sense of identity; this makes it challenging to distinguish (1) changes to fixed characteristics of a population from (2) changing social norms and patterns of self-identification. To address this issue, we utilize genetic similarity proportions (GSPs), which quantify the fraction of a person’s DNA linked to various present-day reference populations. We analyze the dynamic relationship between race/ethnicity and GSPs across three American birth cohorts: 1945, 1980, and 2015. Our results highlight the growing ancestral diversity of the U.S. over time, including both within-race/ethnicity shifts in average GSPs and changes to the association between GSPs and racial/ethnic identification.</p>
-</details>
-
-
-<details>
-<summary>
-When Employer Commitment Does (Not) Produce Racialized Effects in Hiring.<br>
-Adina D. Sterling, <b>Marissa E. Thompson</b>, and Devon Rojas
-</summary>
-<p class="abstract">Theory suggests that racial discrimination in labor markets is weakened when there is greater certainty about the capabilities of job candidates. However, early career individuals lack a track record of success, which leaves employers uncertain about their capabilities. In this study, we develop a theory on how racial discrimination in labor markets is reduced, even when candidates are unproven early in their careers. We argue that when employer commitment is low such as in internships, employers are less concerned about the potential downsides of hiring mistakes, and as a result, the influence of the race of candidates matters less than when employer commitment is greater, such as in entry-level jobs. To examine our theory, we place a novel field experiment using the candidate profiles of early stage candidates that vary by race and also conduct qualitative interviews. Consistent with our arguments on employer commitment, we find that for internships, a candidate’s race is less likely to predict whether they are selected compared to entry-level full-time jobs. We close with a discussion on how this study deepens our knowledge of organizations, race, and labor markets, and why without attending to early careers, our theories on addressing racial inequality are incomplete.</p>
-</details>
-  <br>
-# <center>Publications</center>
+<!---->
+<!--## Working Papers & Manuscripts Under Review-->
+<!--<details>-->
+<!--<summary>-->
+<!--<i>One Fell Through the Safety Net</i>: Embeddedness and the Take Up of Social Benefits.<br>-->
+<!--<b>Marissa E. Thompson</b>, Katherine Michelmore, Kelcie Ferrara-Gerson, Nathan Sotherland, and Kevin Stange-->
+<!--</summary>-->
+<!--<p class="abstract">The U.S. social safety net comprises a patchwork quilt of welfare programs, but not all eligible beneficiaries receive aid. Incomplete take-up suggests that some children and families are not receiving access to the education, healthcare, housing, and income needed to break the cycle of poverty and may reflect unequal burdens in accessing benefits. We examine incomplete take-up using the case of Michigan’s largest need-based financial aid program, where eligibility is based on childhood Medicaid participation. Somewhat surprisingly, we find that economic disadvantage—proxied by duration of childhood on Medicaid—is positively associated with take-up, suggesting that those most in need have highest take-up rates. While prior work has focused on the relationship between individuals and single programs in isolation, we illustrate how embeddedness (both of individuals within programs and individuals within communities) can help explain patterns of incomplete benefit take-up. Those with consistent safety net attachment—continuous Medicaid enrollment and participation in other programs like food stamps—have higher take-up than those with inconsistent attachment, despite similar need. Additionally, community-level take-up among the network of one’s peers is associated with individual take-up patterns. Overall, we argue that policies to improve take-up might be more effective if safety net take-up is considered collectively rather than individually.</p>-->
+<!--</details>-->
+<!---->
+<!--<details>-->
+<!--<summary>-->
+<!--<a href="https://osf.io/preprints/socarxiv/ncakt_v1" target="_blank">DNA Reveals the Growing Ancestral Diversity of the United States.</a><br>-->
+<!--<i>APC Working Papers</i><br>-->
+<!--Sam Trejo and <b>Marissa E. Thompson</b>-->
+<!--</summary>-->
+<!--<p class="abstract">Demographic research often seeks to assess changes to the characteristics of a population over time. However, many sociodemographic variables, like race/ethnicity, are self-reported measures that correspond to a subjective sense of identity; this makes it challenging to distinguish (1) changes to fixed characteristics of a population from (2) changing social norms and patterns of self-identification. To address this issue, we utilize genetic similarity proportions (GSPs), which quantify the fraction of a person’s DNA linked to various present-day reference populations. We analyze the dynamic relationship between race/ethnicity and GSPs across three American birth cohorts: 1945, 1980, and 2015. Our results highlight the growing ancestral diversity of the U.S. over time, including both within-race/ethnicity shifts in average GSPs and changes to the association between GSPs and racial/ethnic identification.</p>-->
+<!--</details>-->
+<!---->
+<!---->
+<!--<details>-->
+<!--<summary>-->
+<!--When Employer Commitment Does (Not) Produce Racialized Effects in Hiring.<br>-->
+<!--Adina D. Sterling, <b>Marissa E. Thompson</b>, and Devon Rojas-->
+<!--</summary>-->
+<!--<p class="abstract">Theory suggests that racial discrimination in labor markets is weakened when there is greater certainty about the capabilities of job candidates. However, early career individuals lack a track record of success, which leaves employers uncertain about their capabilities. In this study, we develop a theory on how racial discrimination in labor markets is reduced, even when candidates are unproven early in their careers. We argue that when employer commitment is low such as in internships, employers are less concerned about the potential downsides of hiring mistakes, and as a result, the influence of the race of candidates matters less than when employer commitment is greater, such as in entry-level jobs. To examine our theory, we place a novel field experiment using the candidate profiles of early stage candidates that vary by race and also conduct qualitative interviews. Consistent with our arguments on employer commitment, we find that for internships, a candidate’s race is less likely to predict whether they are selected compared to entry-level full-time jobs. We close with a discussion on how this study deepens our knowledge of organizations, race, and labor markets, and why without attending to early careers, our theories on addressing racial inequality are incomplete.</p>-->
+<!--</details>-->
+<!--  <br>-->
+<!--# <center>Publications</center>-->
 
 <h2>Forthcoming</h2>
 <details>
