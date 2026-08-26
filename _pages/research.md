@@ -53,8 +53,8 @@ h2.js-hidden {
 <button class="active" data-theme="all">All</button>
 <button data-theme="education">Education</button>
 <button data-theme="race-ethnicity">Race/Ethnicity</button>
-<button data-theme="experiments">Experiments</button>
 <button data-theme="policy">Policy</button>
+<button data-theme="experiments">Experiments</button>
 </div>
 
 <i><font size="4"> <center>All articles are the sole copyright of the respective journals and publishers. PDFs below are provided as a professional courtesy for personal and educational use only.</center> </font></i>
