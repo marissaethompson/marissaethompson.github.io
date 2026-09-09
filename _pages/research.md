@@ -71,7 +71,7 @@ h2.js-hidden {
 <h2 data-year="forthcoming">Forthcoming</h2>
 <details data-theme="race-ethnicity experiments">
 <summary>
-"Being Black is not just some costume": How Black Americans narrate moral judgments regarding racial boundary-crossing.<br>
+<a href="/research/Thompson_SP_2026.pdf" target="_blank">"Being Black is not just some costume": How Black Americans narrate moral judgments regarding racial boundary-crossing.</a><br>
 <i>Social Problems</i><br>
 <b>Marissa E. Thompson</b>, Sam Trejo, AJ Alvero, and Daphne O. Martschenko
 </summary>
