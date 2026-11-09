@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72ee1bce-f4d2-4407-9948-55bcd7e970ea" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="72ee1bce-f4d2-4407-9948-55bcd7e970ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_pages/research.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/research.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv/Thompson_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/cv/Thompson_CV.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research/Thompson_SP_2026.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/research/Thompson_SP_2026.pdf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,12 +14,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4,
+  "fromUser": false
+}]]></component>
   <component name="ProjectFrameBounds">
     <option name="x" value="613" />
     <option name="y" value="38" />
     <option name="width" value="738" />
     <option name="height" value="875" />
   </component>
+  <component name="ProjectId" id="3LjiUxftQweE4QNHv4eh1fYm2eD" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -26,6 +34,19 @@
       <pane id="ProjectPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "gh-pages",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -38,6 +59,13 @@
       </list>
     </option>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ebb3072d7bdf-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.11879.98" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="72ee1bce-f4d2-4407-9948-55bcd7e970ea" name="Default Changelist" comment="" />
@@ -45,6 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678053950925</updated>
+      <workItem from="1793973898182" duration="3000" />
     </task>
     <servers />
   </component>
@@ -69,5 +98,8 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

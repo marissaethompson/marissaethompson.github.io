@@ -68,26 +68,24 @@ h2.js-hidden {
  </center>
   <br>
 
-<h2 data-year="forthcoming">Forthcoming</h2>
+<h2 data-year="2026">2026</h2>
 <details data-theme="race-ethnicity experiments">
 <summary>
-<a href="/research/Thompson_SP_2026.pdf" target="_blank">"Being Black is not just some costume": How Black Americans narrate moral judgments regarding racial boundary-crossing.</a><br>
-<i>Social Problems</i><br>
+<a href="https://academic.oup.com/socpro/advance-article-abstract/doi/10.1093/socpro/spag076/9011135?redirectedFrom=fulltext" target="_blank">"Being Black is not just some costume": How Black Americans narrate moral judgments regarding racial boundary-crossing.</a><br>
+<i>Social Problems</i> <a href="/research/Thompson_SP_2026.pdf" target="_blank"><span style="font-size: 15pt; color:#8fbc8f">●</span></a><br>
 <b>Marissa E. Thompson</b>, Sam Trejo, AJ Alvero, and Daphne O. Martschenko
 </summary>
-<p class="abstract">When is changing one's racial self-identification perceived as a moral vs. an immoral act? We examine this question using free responses drawn from a nationally representative survey of Black Americans (n=760). To do so, we provided respondents with vignettes about a fictitious individual who has changed their racial self-identification after taking a genetic ancestry test. Further, we experimentally varied the context of the vignette between self-identification on a census and on a college scholarship application. We find that respondents who frame responses using moral opposition tend to do so when they infer that the vignette individual is not self-identifying consistently across settings. This rejection is especially salient in scarce resource contexts–where there may be opportunities for strategic self-identification–but are not exclusive to them. In contrast, when identifications are assumed to reflect a permanent shift in identity (particularly one with a genuine embracement of Black culture and heritage), respondents instead validated the moral character of the vignette individual. We highlight a pattern that we term <i>racial consistency</i>: the perception that a change in one's racial identity can be morally justified if it is durable and persists regardless of any benefits or hardships experienced. </p>
+<p class="abstract">When is changing one’s racial self-identification perceived as a moral vs. an immoral act? We examine this question using free responses drawn from a nationally representative survey of Black Americans (n = 760). To do so, we provided respondents with vignettes about a fictitious individual who has changed their racial self-identification after taking a genetic ancestry test. Further, we experimentally varied the context of the vignette between self-identification on (1) a census and (2) a college scholarship application. We find that respondents who frame responses using moral opposition tend to do so when they infer that the vignette individual is not self-identifying consistently across settings. This rejection is especially salient in scarce resource contexts—where there may be opportunities for strategic self-identification—but are not exclusive to them. In contrast, when identifications are assumed to reflect a permanent shift in identity (particularly one with a genuine embrace of Black culture and heritage), respondents instead validated the moral character of the vignette individual. We highlight a pattern that we term <i>racial consistency</i>: the perception that a change in one’s racial identity can be morally justified if it is durable and persists regardless of any benefits or hardships experienced. </p>
 </details>
 
 <details data-theme="education policy">
 <summary>
-<a href="https://edworkingpapers.com/ai25-1283" target="_blank">Bureaucracy and Burden: Understanding Take-up of a Need-Based Financial Aid Program.</a><br>
-<i>American Educational Research Journal</i><br>
+<a href="https://journals.sagepub.com/doi/10.3102/00028312261486425" target="_blank">Bureaucracy and Burden: Understanding Take-up of a Need-Based Financial Aid Program.</a><br>
+<i>American Educational Research Journal</i> <a href="/research/Burland_AERJ_2026.pdf" target="_blank"><span style="font-size: 15pt; color:#8fbc8f">●</span></a><br>
 Elizabeth Burland, Jasmina Camo-Biogradlija, Kelcie Ferrara-Gerson, Xavier Fields, Katherine Michelmore, Nathan Sotherland, Kevin Stange, <b>Marissa E. Thompson</b>, and Megan Tomkins-Stange
 </summary>
 <p class="abstract">Social welfare programs, including college financial aid, often only reach a fraction of eligible beneficiaries. We examine this problem through the lens of Michigan's Tuition Incentive Program (TIP), a state need-based grant aid program. We conduct a large-scale mixed-methods study using data on over one million Michigan public-school students, and 55 interviews with front-line administrators, high school counselors, and financial aid staff. We find that while one third of Michigan high school graduates are eligible for TIP, its take-up rate is only 14 percent, diminishing its impact on college affordability. We identify key barriers that shape take-up: the presence of administrative burdens, and constraints faced by front-line administrators in alleviating these burdens when administrative responsibility is fractured and ill-defined.</p>
 </details>
-
-<h2 data-year="2026">2026</h2>
 
 <details data-theme="race-ethnicity experiments">
 <summary>
